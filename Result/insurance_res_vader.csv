@@ -1,0 +1,706 @@
+review,Eng,vader_score,vader_compound,textblob_score
+儲蓄保險回報低，年期長。,Savings insurance returns are low and the term is long.,"{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.2732}",-0.2732,-0.025
+消耗投保人的時間值。,Consume the time value of the policyholder.,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.34}",0.34,0.0
+請問有什么價值,What's the value,"{'neg': 0.0, 'neu': 0.455, 'pos': 0.545, 'compound': 0.34}",0.34,0.0
+沒有 ,No,"{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.296}",-0.29600000000000004,0.0
+其實現時的儲蓄計劃最短只有3年的。所以不算太長丫,The minimum savings plan at the time of its realization is only 3 years. So it's not too long,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.025
+可是3年後cut單，是虧損的。沒意思,But the cut order after 3 years is loss-making. Boring,"{'neg': 0.412, 'neu': 0.588, 'pos': 0.0, 'compound': -0.6808}",-0.6808,-1.0
+既然供滿了3年又為何要cut呢?唔再供，錢都係都路咁派。有需要嘅咪拎部份出嚟用籮。知必要整份cut,"Since the confession has been completed for 3 years, why should it be cut? Well, the confession, the money is all sent by the Luz. There is a need to use some part of the microphone. Know the whole cut","{'neg': 0.097, 'neu': 0.855, 'pos': 0.048, 'compound': -0.2732}",-0.2732,0.2
+咁，點解唔放喺貨幣基金？唔需要接受短期虧損。流動性又強。,"Hey, why don’t you let go of money funds? No need to accept short-term losses. Liquidity is strong.","{'neg': 0.198, 'neu': 0.565, 'pos': 0.238, 'compound': 0.25}",0.25,0.4333333333333333
+貨幣基金係低風險投資，理財保險係講緊保証回報嘅嘢。兩者有明顯嘅分別。如果你相信貨幣當然係買貨幣啦。,"Monetary funds are low-risk investments, and wealth management and insurance are all about guaranteeing returns. There is a clear difference between the two. If you believe in currency, of course, buy currency.","{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.7003}",0.7003,0.10000000000000002
+但理財保險係想把錢滾錢。什至係傳承下一代。等到自己下一代有錢。同埋係講緊保証嘅嘢。,But the Department of Wealth Management wants to get the money back. Even the next generation. Wait until your next generation is rich. Pay close attention to the promise of guarantee.,"{'neg': 0.038, 'neu': 0.615, 'pos': 0.347, 'compound': 0.9331}",0.9331,0.115
+貨幣基金高風險？？呵呵，你究竟識唔識？,"Is money fund high risk? ? Ha ha, do you know?","{'neg': 0.15, 'neu': 0.641, 'pos': 0.209, 'compound': 0.212}",0.212,0.16
+請問你知唔知貨幣基金對接的是什麼資產？,Do you know what assets the money funds are docking with?,"{'neg': 0.0, 'neu': 0.855, 'pos': 0.145, 'compound': 0.1779}",0.1779,0.0
+貨幣基金高風險？？呵呵，你究竟識唔識？,"Is money fund high risk? ? Ha ha, do you know?","{'neg': 0.15, 'neu': 0.641, 'pos': 0.209, 'compound': 0.212}",0.212,0.16
+請問你知唔知貨幣基金對接的是什麼資產？,Do you know what assets the money funds are docking with?,"{'neg': 0.0, 'neu': 0.855, 'pos': 0.145, 'compound': 0.1779}",0.1779,0.0
+唔好意思，我只係打錯咗高同低兩個字。,"Sorry, I only misspelled the words high and low.","{'neg': 0.327, 'neu': 0.673, 'pos': 0.0, 'compound': -0.34}",-0.34,-0.08499999999999999
+其實兩樣嘢都有唔同人對唔同嘅需求，有人會鍾意理財保險，有人會鍾意貨幣基金。,"In fact, in both cases, there are different needs for different people. Some people will like financial insurance, and some people will like money funds.","{'neg': 0.0, 'neu': 0.821, 'pos': 0.179, 'compound': 0.6124}",0.6124,0.0
+我相信宜個POST應該解答到樓主既問題,I believe that a POST should answer both the landlord's questions,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+講得好好，就係儲一筆，低风險，高回報既，就可以抗通脹，有D人已經買唔到任何保障，就當medical saving 甘儲,"If you talk about it well, it is a savings. With low risk and high return, you can resist inflation. Some people have already bought any protection, and they are regarded as medical saving.","{'neg': 0.113, 'neu': 0.831, 'pos': 0.056, 'compound': -0.2732}",-0.2732,0.05333333333333334
+竟然會有人信啲連計數都冇嘅些屎話術鱔稿,There will be people who believe that even the counts are not good,"{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.3412}",-0.3412,-0.35
+呢行大把些屎寫鱔稿增加知名度,Do a lot of shit writing eel manuscript to increase visibility,"{'neg': 0.242, 'neu': 0.604, 'pos': 0.154, 'compound': -0.3182}",-0.3182,-0.2
+"俾幾錢投個專欄就自己諗, 然而唔少講一套做一套, 寫稿表面似中立, 實做就劏客.","I would like to spend a few dollars on a column to admire myself. However, I don't talk about one set and one set. The writing seems neutral, so if you do it, you will be a broker.","{'neg': 0.0, 'neu': 0.865, 'pos': 0.135, 'compound': 0.6808}",0.6808,-0.2
+雖然唔明師兄點解冇嘮氣 但事實上樓主唔係問計數,"Although Brother Ming didn’t explain, he didn’t ask for the count.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+係問有乜價值 咁我照答咁解,"Ask questions have value, I will answer","{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.34}",0.34,0.0
+其實每一行都會有好與壞 不能以偏概全既,"In fact, every line will have good and bad, not all","{'neg': 0.227, 'neu': 0.584, 'pos': 0.188, 'compound': -0.1531}",-0.1531,5.551115123125783e-17
+加上我覺得個專欄寫得幾岩呀,Plus I think a column is a bit rocky,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+當初我買果陣都係因為宜幾個因素,"At first, I bought fruit arrays because of several factors","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.125
+講當初買果陣不如講些人買果陣啦,It’s better to say that some people buy fruit arrays.,"{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}",0.4404,0.5
+"些屎自然會賣花讚花香, 明嘅","Some shit will naturally sell flowers and praise flowers, Ming","{'neg': 0.237, 'neu': 0.526, 'pos': 0.237, 'compound': 0.0}",0.0,-0.05
+你意思係人壽轉人壽﹖,Do you mean from life to life?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.3125
+醫療危疾都轉得,Medical critical illnesses are transferred,"{'neg': 0.647, 'neu': 0.353, 'pos': 0.0, 'compound': -0.6705}",-0.6705,0.0
+邊個負責你地個間？女仔離？,Which side is responsible for your room? Girls away?,"{'neg': 0.0, 'neu': 0.75, 'pos': 0.25, 'compound': 0.3939}",0.3939,0.2
+要去細m上...灣仔上,Going to fine m... Wan Chai,"{'neg': 0.0, 'neu': 0.735, 'pos': 0.265, 'compound': 0.2023}",0.2023,0.10833333333333334
+下。。。。。。通常都係佢地離。,under. . . . . . Usually they are separated from each other.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.1875
+"離過一次, 男來, 今次要自已去..","Once away, the man came, this time I have to go by myself..","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+mpf 都係要上佢哋公司啦..,mpf is all going to the company..,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+得果幾丁...佢哋唔想來掛...,It must be chitin... Qu don’t want to hang...,"{'neg': 0.0, 'neu': 0.86, 'pos': 0.14, 'compound': 0.0772}",0.0772,0.0
+咁又係。。。你公司太少。。。,Yeah again. . . You have too few companies. . .,"{'neg': 0.0, 'neu': 0.82, 'pos': 0.18, 'compound': 0.296}",0.29600000000000004,-0.2
+女既正d.男既上次離請我地飲茶。,The woman is both d. The man left to invite me to drink tea last time.,"{'neg': 0.0, 'neu': 0.904, 'pos': 0.096, 'compound': 0.1531}",0.1531,0.0
+只新野好似增加保證部分,Only Shinno seems to add a guaranteed part,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+我好窮QQ,I'm so poor QQ,"{'neg': 0.792, 'neu': 0.208, 'pos': 0.0, 'compound': -0.8227}",-0.8227,-0.4
+就係連千幾蚊一年都冇,Even thousands of mosquitoes are not a year,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+講真佣金人地，保障係自己！,"Tell the truth commissions and land, and protect yourself!","{'neg': 0.0, 'neu': 0.574, 'pos': 0.426, 'compound': 0.636}",0.636,0.0
+千零蚊又個槓桿，有事可以有幾佰倍嘅賠償。,"Thousands of mosquitoes are another lever, and they can be compensated hundreds of times in case of trouble.","{'neg': 0.137, 'neu': 0.863, 'pos': 0.0, 'compound': -0.4019}",-0.4019,-0.2
+為自己、為屋企人諗下！,"For yourself, for the housing entrepreneurs!","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+講得啱,Speak well,"{'neg': 0.0, 'neu': 0.323, 'pos': 0.677, 'compound': 0.2732}",0.2732,0.0
+有d保單無工開時可以暫停交保費，當然保障都會跟著停，唔知係咪真，,"You can suspend the payment of premiums when there is a d policy without work. Of course, the protection will also stop, I don’t know if it’s true,","{'neg': 0.139, 'neu': 0.774, 'pos': 0.087, 'compound': -0.1779}",-0.1779,0.35
+你打上CS到問一問，佢地應該可以教你的點做係最好，好似話可以停一年。,"You hit CS to ask, Qudi should be able to teach you the best point system, as if you can stop for a year.","{'neg': 0.077, 'neu': 0.775, 'pos': 0.148, 'compound': 0.4588}",0.4588,0.75
+打客服电话就可以,Just call customer service,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+你份保險咁平應該冇儲蓄， 唔交錢過左寛限期就會自動失效。,"If you have insurance, you should not save. If you don't pay the money, it will automatically expire after the deadline.","{'neg': 0.115, 'neu': 0.829, 'pos': 0.057, 'compound': -0.3252}",-0.3252,0.0
+直接剷上去退,Shovel up and back,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+上年剛畢業,Just graduated last year,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+我有位好朋友去左做保險,I have a good friend to go to the left for insurance,"{'neg': 0.0, 'neu': 0.621, 'pos': 0.379, 'compound': 0.7269}",0.7269,0.35
+佢話差幾千蚊就有獎金,There are bonuses for thousands of mosquitoes,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.5574}",0.5574,0.0
+睇在好朋友+做左幾年室友份上,Look at the good friend + being a roommate for a few years,"{'neg': 0.0, 'neu': 0.643, 'pos': 0.357, 'compound': 0.7269}",0.7269,0.25
+就幫佢買左份人情保,So I bought Qu Zuoqing,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+最近收到AIA嘅繳費通知書,Recently received a payment notice from AIA,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+因為我位朋友已經辭左職,Because my friend has resigned,"{'neg': 0.244, 'neu': 0.366, 'pos': 0.39, 'compound': 0.296}",0.29600000000000004,0.0
+所以已經冇理由要再比錢供,So there is no reason to compare the money,"{'neg': 0.235, 'neu': 0.765, 'pos': 0.0, 'compound': -0.3535}",-0.3535,0.0
+所以想退保,So I want to surrender,"{'neg': 0.0, 'neu': 0.717, 'pos': 0.283, 'compound': 0.1477}",0.1477,0.0
+"我搵返位朋友,佢話唔關佢事啦",I'm returning to my friend,"{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.4939}",0.4939,0.0
+所以想問下要點退保,So I want to ask the main points to surrender,"{'neg': 0.0, 'neu': 0.851, 'pos': 0.149, 'compound': 0.1477}",0.1477,0.16666666666666666
+上AIA個網絡睇左好耐,Go to the AIA network to watch Zuo Hao Nai,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+都搵唔到網上退保功能,You can find the online surrender function,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+係咪打紅圈內的電話??,Is the microphone making a phone call in the red circle?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+如果要退保，可以打2232-8888，或者唔交錢都得,"If you want to surrender the policy, you can call 2232-8888, or don’t pay","{'neg': 0.095, 'neu': 0.816, 'pos': 0.088, 'compound': -0.0258}",-0.0258,0.0
+不過$1400年，交多10年到就保終身，考慮下供埋去啦。,"However, for $1400, you will be guaranteed a lifetime for more than 10 years, and consider burying it.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.5
+始終意外既野講唔埋，你睇早兩日果單交通意外,"Always be accidental, but don’t bury it, you can watch the traffic accident two days earlier","{'neg': 0.275, 'neu': 0.725, 'pos': 0.0, 'compound': -0.6486}",-0.6486,0.0
+多謝回答,Thanks for answering,"{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}",0.4404,0.2
+不過想問 唔交錢=自動退保???,But I want to ask. Don't pay money = surrender automatically???,"{'neg': 0.0, 'neu': 0.724, 'pos': 0.276, 'compound': 0.3472}",0.3472,0.0
+唔會有問題???,Is there a problem???,"{'neg': 0.519, 'neu': 0.481, 'pos': 0.0, 'compound': -0.5007}",-0.5007,0.0
+付款寛限期過後，保單就會自動失效！,"After the payment deadline, the policy will automatically lapse!","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+無問題,no problem,"{'neg': 0.0, 'neu': 0.307, 'pos': 0.693, 'compound': 0.3089}",0.3089,0.0
+你嗰朋友都幾不負責任喎。,Your friends are almost irresponsible.,"{'neg': 0.299, 'neu': 0.345, 'pos': 0.356, 'compound': 0.1263}",0.1263,0.0
+直接吾交就得~,I just have to make a deal~,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+年交1400又吾好想到天甘大，保障始終係自己，出左事就後悔啦,"In the annual exchange of 1400, I really think of Tian Ganda, and I always guarantee myself. I regret it if something goes wrong.","{'neg': 0.204, 'neu': 0.727, 'pos': 0.069, 'compound': -0.5994}",-0.5994,-0.15
+人情保，新的保障範圍,"Human security, new coverage","{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.34}",0.34,0.06818181818181818
+中意呢個名,What's your favorite name,"{'neg': 0.0, 'neu': 0.5, 'pos': 0.5, 'compound': 0.4588}",0.4588,0.5
+唔交錢就自動退,Don't pay the money,"{'neg': 0.0, 'neu': 0.698, 'pos': 0.302, 'compound': 0.0762}",0.0762,0.0
+大把呢D人,A lot of people D,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"反正當幫下朋友(雖然我買左,但當年最後佢都唔夠數領獎金)","Anyway, I should help my friends (although I bought the left, but at the end of the year, they were not enough to receive bonuses)","{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.8316}",0.8316,0.0
+咁你咪當俾咗錢去睇清呢個人囉！,Why don’t you pay the money to see you?,"{'neg': 0.149, 'neu': 0.851, 'pos': 0.0, 'compound': -0.1027}",-0.1027,0.0
+獎金500嗎？,Is the bonus 500?,"{'neg': 0.0, 'neu': 0.462, 'pos': 0.538, 'compound': 0.5423}",0.5423,0.0
+如果獎金超過1萬，無奶由欠幾千會做吾到,"If the bonus exceeds 10,000, no milk will owe thousands to you","{'neg': 0.14, 'neu': 0.637, 'pos': 0.223, 'compound': 0.3182}",0.3182,0.0
+唔太清楚,Not too clear,"{'neg': 0.522, 'neu': 0.478, 'pos': 0.0, 'compound': -0.2924}",-0.2924,0.10000000000000002
+冇問佢,No question,"{'neg': 0.688, 'neu': 0.312, 'pos': 0.0, 'compound': -0.296}",-0.29600000000000004,0.0
+講真、千幾蚊一年？平到唔知講乜好，買埋啦,"Tell the truth, how many mosquitoes a year? I don’t know what to say, buy it","{'neg': 0.0, 'neu': 0.867, 'pos': 0.133, 'compound': 0.3182}",0.3182,0.5
+上年剛畢業,Just graduated last year,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+我有位好朋友去左做保險,I have a good friend to go to the left for insurance,"{'neg': 0.0, 'neu': 0.621, 'pos': 0.379, 'compound': 0.7269}",0.7269,0.35
+佢話差幾千蚊就有獎金,There are bonuses for thousands of mosquitoes,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.5574}",0.5574,0.0
+睇在好朋友+做左幾年室友份上,Look at the good friend + being a roommate for a few years,"{'neg': 0.0, 'neu': 0.643, 'pos': 0.357, 'compound': 0.7269}",0.7269,0.25
+就幫佢買左份人情保,So I bought Qu Zuoqing,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+最近收到AIA嘅繳費通知書,Recently received a payment notice from AIA,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+因為我位朋友已經辭左職,Because my friend has resigned,"{'neg': 0.244, 'neu': 0.366, 'pos': 0.39, 'compound': 0.296}",0.29600000000000004,0.0
+所以已經冇理由要再比錢供,So there is no reason to compare the money,"{'neg': 0.235, 'neu': 0.765, 'pos': 0.0, 'compound': -0.3535}",-0.3535,0.0
+所以想退保,So I want to surrender,"{'neg': 0.0, 'neu': 0.717, 'pos': 0.283, 'compound': 0.1477}",0.1477,0.0
+"我搵返位朋友,佢話唔關佢事啦",I'm returning to my friend,"{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.4939}",0.4939,0.0
+所以想問下要點退保,So I want to ask the main points to surrender,"{'neg': 0.0, 'neu': 0.851, 'pos': 0.149, 'compound': 0.1477}",0.1477,0.16666666666666666
+上AIA個網絡睇左好耐,Go to the AIA network to watch Zuo Hao Nai,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+都搵唔到網上退保功能,You can find the online surrender function,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+係咪打紅圈內的電話??,Is the microphone making a phone call in the red circle?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+如果要退保，可以打2232-8888，或者唔交錢都得,"If you want to surrender the policy, you can call 2232-8888, or don’t pay","{'neg': 0.095, 'neu': 0.816, 'pos': 0.088, 'compound': -0.0258}",-0.0258,0.0
+不過$1400年，交多10年到就保終身，考慮下供埋去啦。,"However, for $1400, you will be guaranteed a lifetime for more than 10 years, and consider burying it.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.5
+始終意外既野講唔埋，你睇早兩日果單交通意外,"Always be accidental, but don’t bury it, you can watch the traffic accident two days earlier","{'neg': 0.275, 'neu': 0.725, 'pos': 0.0, 'compound': -0.6486}",-0.6486,0.0
+多謝回答,Thanks for answering,"{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}",0.4404,0.2
+不過想問 唔交錢=自動退保???,But I want to ask. Don't pay money = surrender automatically???,"{'neg': 0.0, 'neu': 0.724, 'pos': 0.276, 'compound': 0.3472}",0.3472,0.0
+唔會有問題???,Is there a problem???,"{'neg': 0.519, 'neu': 0.481, 'pos': 0.0, 'compound': -0.5007}",-0.5007,0.0
+付款寛限期過後，保單就會自動失效！,"After the payment deadline, the policy will automatically lapse!","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+無問題,no problem,"{'neg': 0.0, 'neu': 0.307, 'pos': 0.693, 'compound': 0.3089}",0.3089,0.0
+你嗰朋友都幾不負責任喎。,Your friends are almost irresponsible.,"{'neg': 0.299, 'neu': 0.345, 'pos': 0.356, 'compound': 0.1263}",0.1263,0.0
+直接吾交就得~,I just have to make a deal~,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+年交1400又吾好想到天甘大，保障始終係自己，出左事就後悔啦,"In the annual exchange of 1400, I really think of Tian Ganda, and I always guarantee myself. I regret it if something goes wrong.","{'neg': 0.204, 'neu': 0.727, 'pos': 0.069, 'compound': -0.5994}",-0.5994,-0.15
+人情保，新的保障範圍,"Human security, new coverage","{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.34}",0.34,0.06818181818181818
+中意呢個名,What's your favorite name,"{'neg': 0.0, 'neu': 0.5, 'pos': 0.5, 'compound': 0.4588}",0.4588,0.5
+唔交錢就自動退,Don't pay the money,"{'neg': 0.0, 'neu': 0.698, 'pos': 0.302, 'compound': 0.0762}",0.0762,0.0
+大把呢D人,A lot of people D,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"反正當幫下朋友(雖然我買左,但當年最後佢都唔夠數領獎金)","Anyway, I should help my friends (although I bought the left, but at the end of the year, they were not enough to receive bonuses)","{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.8316}",0.8316,0.0
+咁你咪當俾咗錢去睇清呢個人囉！,Why don’t you pay the money to see you?,"{'neg': 0.149, 'neu': 0.851, 'pos': 0.0, 'compound': -0.1027}",-0.1027,0.0
+獎金500嗎？,Is the bonus 500?,"{'neg': 0.0, 'neu': 0.462, 'pos': 0.538, 'compound': 0.5423}",0.5423,0.0
+如果獎金超過1萬，無奶由欠幾千會做吾到,"If the bonus exceeds 10,000, no milk will owe thousands to you","{'neg': 0.14, 'neu': 0.637, 'pos': 0.223, 'compound': 0.3182}",0.3182,0.0
+唔太清楚,Not too clear,"{'neg': 0.522, 'neu': 0.478, 'pos': 0.0, 'compound': -0.2924}",-0.2924,0.10000000000000002
+冇問佢,No question,"{'neg': 0.688, 'neu': 0.312, 'pos': 0.0, 'compound': -0.296}",-0.29600000000000004,0.0
+講真、千幾蚊一年？平到唔知講乜好，買埋啦,"Tell the truth, how many mosquitoes a year? I don’t know what to say, buy it","{'neg': 0.0, 'neu': 0.867, 'pos': 0.133, 'compound': 0.3182}",0.3182,0.5
+Prudential 的財務狀況 healthy ma?,Prudential's financial status healthy ma?,"{'neg': 0.0, 'neu': 0.597, 'pos': 0.403, 'compound': 0.4019}",0.4019,0.25
+是不是可靠???? 聽說是較保守的...,Is it reliable???? I heard that it is more conservative...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.5
+因為快要決定了...所以希望有個知字,Because it's about to be decided... so I hope there is a knowing word,"{'neg': 0.0, 'neu': 0.804, 'pos': 0.196, 'compound': 0.4902}",0.4902,0.0
+唔知你係決定買佢地ge產品丫？定還是入行呢？,Don't know if you decided to buy Qudi products? Are you still going into business?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+月中既時候goldman sachs話佢流動現金不足，一個星期之後prudential公布第3季業績，整體上升左15%左右,"At the time of the month, the goldman sachs talked about the lack of cash flow. A week later, prudential announced the third quarter results, which rose by about 15%","{'neg': 0.073, 'neu': 0.927, 'pos': 0.0, 'compound': -0.3182}",-0.3182,0.2
+應該冇問題.,No problem.,"{'neg': 0.0, 'neu': 0.307, 'pos': 0.693, 'compound': 0.3089}",0.3089,0.0
+我都想知 ??,I want to know ??,"{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.168}",0.168,0.0
+中肯d 講...資產值又唔代表d 咩既~~~,Pertinent d talk about...the asset value does not represent d~~~~,"{'neg': 0.0, 'neu': 0.62, 'pos': 0.38, 'compound': 0.5994}",0.5994,0.0
+人地aig 過萬億資產都一樣會有問題~~,People aig over trillions of assets are all the same~~,"{'neg': 0.0, 'neu': 0.841, 'pos': 0.159, 'compound': 0.1779}",0.1779,0.0
+剛出左第3季業績....可以參考一下呢,Just out of the third quarter results from the left...you can refer to it,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+就咁睇都唔錯~~,It's all wrong~~,"{'neg': 0.608, 'neu': 0.392, 'pos': 0.0, 'compound': -0.4767}",-0.4767,-0.5
+同 ml 差唔多~市場上算係穩健丫~,There is not much difference in the same ml~ It is stable on the market~,"{'neg': 0.0, 'neu': 0.864, 'pos': 0.136, 'compound': 0.296}",0.29600000000000004,-0.05
+認為師兄考慮得過,I think Brother has considered it,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+is it ok??,is it ok??,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.5
+"compare wif manulife, protential""""","compare wifi manulife, potential""""","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+which one is better,which one is better,"{'neg': 0.0, 'neu': 0.508, 'pos': 0.492, 'compound': 0.4404}",0.4404,0.5
+你問乜呀?,What are you asking?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+想買保險定搵工呀? 唔湯唔水!,"Want to buy insurance and get a job? Well, no water!","{'neg': 0.158, 'neu': 0.576, 'pos': 0.266, 'compound': 0.126}",0.126,0.0
+做乜都唔惦啦!,Don't do anything at all!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+講得好！,Good talk!,"{'neg': 0.0, 'neu': 0.239, 'pos': 0.761, 'compound': 0.4926}",0.4926,0.875
+你講咩先得架？！,What are you talking about first? !,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.3125
+買保險，做corporate staff，做agent都好唔同架喎同埋係Prudential,"Buying insurance, being a corporate staff, and being an agent are not the same.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+個agent貼錢打工,Agents pay money to work,"{'neg': 0.259, 'neu': 0.741, 'pos': 0.0, 'compound': -0.1027}",-0.1027,0.0
+咁攪法之後肯定有爭拗，攪到個客話agent呃佢…,"After the disturbing method, there must be some controversy, and there is a guest agent...","{'neg': 0.191, 'neu': 0.809, 'pos': 0.0, 'compound': -0.5106}",-0.5106,-0.5
+都聽過好多客話佢地agent sell的時候講到天下無敵，賣基金就話包你賺個double(最後係點唔使講啦)，甚至將個客原先一張單做到的野拆開4、5張做，客就以為一定要分開買，去到review時先知咁買係貴左…,"I’ve heard a lot of talk about agent sales when talking about the invincible world. Selling a fund will make you a double (the last point is not to talk about it), and even dismantle the original field of a single customer. 4, 5 pictures, the customer thought that they must buy separately, when the review goes to the prophet, it is expensive to buy...","{'neg': 0.0, 'neu': 0.92, 'pos': 0.08, 'compound': 0.6705}",0.6705,-0.03928571428571428
+好多行家唔識投資走去亂賣。。。癡線。。。。,A lot of experts don't know how to invest to sell. . . Idiot. . . .,"{'neg': 0.171, 'neu': 0.829, 'pos': 0.0, 'compound': -0.5106}",-0.5106,-0.8
+所以保監洗太平地，係好事。,"Therefore, it is a good thing for the insurance supervisor to wash the peace.","{'neg': 0.0, 'neu': 0.652, 'pos': 0.348, 'compound': 0.7506}",0.7506,0.7
+提高返呢行既形象,Improve the image of the line,"{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}",0.4404,0.0
+我覺得係提升唔到的.,I don't think it can be promoted.,"{'neg': 0.0, 'neu': 0.682, 'pos': 0.318, 'compound': 0.4215}",0.4215,0.0
+"本身做得好的, 一樣會依然做得好.","Well done by itself, the same will still be done well.","{'neg': 0.0, 'neu': 0.682, 'pos': 0.318, 'compound': 0.4939}",0.4939,0.0
+"COI 針對的, 主要係個 Plan.","COI is aimed at, mainly a Plan.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.16666666666666666
+但實際上客戶面對的係Agent 不誠實.,"But in fact, the client is facing dishonesty.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"就算改完, 不誠實的 Agent 可以更不誠實地誇大.","Even after the change, the dishonest Agent can be more dishonestly exaggerated.","{'neg': 0.35, 'neu': 0.65, 'pos': 0.0, 'compound': -0.6573}",-0.6573,-0.1
+聽過有agent仲要串個客話你買基金單就預左蝕啦，你搵邊間IFA買都係一樣，做咩要同IFA買唔同我買？,"I heard that an agent wants to make a guest call. If you buy a fund list, you will pre-left eclipse. You buy the same IFA between the sides. Do you have to buy it with IFA instead of me?","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.1
+連瞓身一個衰退中的市場都嗡得出，咁不如叫個客去澳門賭大細好過!,"Even a declining market is buzzing, why not ask a customer to gamble in Macau!","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+呢點係肯定，踩開界的人就算監管當局要嚴打，都係會繼續諗方法踩界,"This point is sure, even if the regulatory authorities want to crack down, the department will continue to follow the method","{'neg': 0.0, 'neu': 0.841, 'pos': 0.159, 'compound': 0.3818}",0.3818,0.17222222222222222
+賣基金單其實包含一個承諾，客人唔識買而俾筆錢你幫佢投資，無非都係想將來過得好啲，有筆錢去做想做的野，而唔係俾你攞去亂fing亂投資，但好多都唔識投資，亂買而攪死左,"Selling a fund form actually contains a promise. Customers don’t know how to buy and make money to help you invest. It’s just that you want to have a good life in the future. You have money to do what you want, and you don’t want to mess with it. Random investment, but many don’t know the investment","{'neg': 0.028, 'neu': 0.827, 'pos': 0.144, 'compound': 0.4854}",0.4854,0.08749999999999998
+岩岩我地先炒左個,"Yanyan, we will fry the left one first","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.125
+佢有客又怕咩你炒.,Qu Youke is afraid of making you fry.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.6
+其實無乜需要拆開來賣。。唔明,"In fact, no need to disassemble to sell. . Unclear","{'neg': 0.344, 'neu': 0.656, 'pos': 0.0, 'compound': -0.4939}",-0.4939,0.0
+"無客都搵唔到食, 你炒唔炒佢都一樣架啦.","No guest can eat it, you can make it the same way.","{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.296}",-0.29600000000000004,0.0
+客無想像中咁難搵。,The guest has no imagination.,"{'neg': 0.355, 'neu': 0.645, 'pos': 0.0, 'compound': -0.296}",-0.29600000000000004,0.0
+影響團隊,Influence team,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"大陸既表弟想幫岩出世既仔買保險，想買aia,唔知有咩方案好呢?","The mainland’s cousin wants to buy insurance for Yan Zi’s birth, and wants to buy aia. Do you know any plans?","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.2
+如果已經指明要AIA.咁即係身邊已經有AIA朋友？為何唔直接問佢？,If you have specified that you want AIA. Is there already an AIA friend around you? Why don't you ask Qu directly?,"{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.594}",0.594,0.1
+就係無朋友做aia,No friends to do aia,"{'neg': 0.39, 'neu': 0.61, 'pos': 0.0, 'compound': -0.3724}",-0.3724,0.0
+呢度aia 就好似有一個，IFA都有幾個，即係咩公司包括aia都可以做既。,"It seems that there is only one aia, and there are several IFAs, that is, all companies including aia can do both.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+點解要指明aia？公司大？,Click to specify aia? Big company?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+佢話aia出名的,Aia is famous,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.5
+Aia.既話咪forever love幫個仔供定錢，大個之後份息夠讀書咁lo,"Aia. Both words, forever love helps a man to make money, after the big one, the dividends are enough to study.","{'neg': 0.0, 'neu': 0.736, 'pos': 0.264, 'compound': 0.7783}",0.7783,0.16666666666666666
+唔考慮其他?,Don't consider others?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+有無的資料睇下?,Is there any information?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+有，你鍾意咪整比你睇睇,"Yes, you like it better than you","{'neg': 0.0, 'neu': 0.331, 'pos': 0.669, 'compound': 0.7964}",0.7964,0.5
+Thanks,Thanks,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4404}",0.4404,0.2
+呢種我地叫保三代,This is my third generation Bao,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+因為bb仔入名,Because bb is famous,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.5
+老豆收完到仔收，仔收完到孫,"After the old beans are harvested, the harvest is finished, and the harvest is harvested to the grandson","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.1
+"AIA 早期你內地都算出名, 過之後就... 我有個客, 佢係內地做保險, 同我講, 早期AIA賠償如果5萬以下, 多數由agent先賠俾客, 再向公司claim, 做到賠償快, 但最後出現問題, 相信大家都明.","In the early days of AIA, you are well-known in the mainland, and after that... I have a customer, and the mainland insurance system. Tell me, if the early AIA compensation is less than 50,000, most of the agents will compensate the customer first, and then claim to the company. Compensation is fast, but finally there is a problem, I believe everyone knows.","{'neg': 0.054, 'neu': 0.946, 'pos': 0.0, 'compound': -0.5499}",-0.5499,0.14047619047619048
+AIA就推介Forever Love,AIA introduces Forever Love,"{'neg': 0.0, 'neu': 0.417, 'pos': 0.583, 'compound': 0.6369}",0.6369,0.5
+保誠就推介雋陞,Prudential recommends Jun Sheng,"{'neg': 0.0, 'neu': 0.612, 'pos': 0.388, 'compound': 0.2263}",0.2263,0.0
+但要留意，國內人士買係需要安排時間上保險公司做認證,"But pay attention, domestic people need to arrange time to go to insurance companies for certification","{'neg': 0.096, 'neu': 0.904, 'pos': 0.0, 'compound': -0.1531}",-0.1531,0.0
+35歲 6000$都吾洗 不如你講埋俾我聽,"35 years old, 6000$, don’t wash it","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.1
+自願醫保分左3個檔，最基本既2千有找，尊尚666美金。 當然都要睇你要咩檔次既醫療服務。,"Voluntary medical insurance is divided into three levels on the left, the most basic is 2,000 to find, respect 666 US dollars. Of course, you have to look at the quality of medical services.","{'neg': 0.0, 'neu': 0.914, 'pos': 0.086, 'compound': 0.4767}",0.4767,0.1
+危疾同醫療係2回事， 首先你要諗清楚你想要咩。,"Critical illness is the same as the medical department. First of all, you need to know what you want.","{'neg': 0.224, 'neu': 0.717, 'pos': 0.058, 'compound': -0.5719}",-0.5719,0.0625
+危疾係一次性賠償，大部分既危疾賠3-5次，無限次都有，但3-5次性比價同實際需要比較高。,"The Critical Illness is a one-time compensation. Most of the critical illnesses are compensated 3-5 times and unlimited times, but the 3-5 times price comparison is higher than the actual needs.","{'neg': 0.215, 'neu': 0.785, 'pos': 0.0, 'compound': -0.6577}",-0.6577,0.15
+自願醫保係消費險，實報實銷。另一作用，退稅。,"Voluntary medical insurance is a consumer insurance that is actually reported and reimbursed. Another effect, tax refund.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+如果完全無保險既人，最基金既第一份保單，我地會建議做左危疾先，因為，危疾所影響除左醫療費用、持續幾年生活費，保額可作抵消生活雜費、生活開支、醫療費用，在治療期間維持正常生活。如果係屋企係經濟支持、有家人供養、有小朋友、老人家要養、有樓供緊，都唔需要擔心。同時出險，保費唔需要再交，保障終身。,"If you are completely uninsured and the first fund is the first insurance policy, we will recommend to do left critical illness first, because the critical illness affects left medical expenses and living expenses for several years, and the sum insured can be used to offset miscellaneous expenses and living expenses. Expenses and medical expenses to maintain a normal life during treatment. If you have financial support from a housing company, family support, children, the elderly to support, and housing supply, you don’t need to worry. At the same time, the insurance premium needs to be paid again to protect the life.","{'neg': 0.109, 'neu': 0.779, 'pos': 0.112, 'compound': 0.0772}",0.0772,0.07142857142857142
+醫保主要退稅同報銷住院費用。,The main tax refund for medical insurance is the same as reimbursement of hospitalization expenses.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.05555555555555555
+建議穩專業人士了解，等專業人士比建議你。,It is recommended that stable professionals understand and wait for professionals to advise you.,"{'neg': 0.0, 'neu': 0.75, 'pos': 0.25, 'compound': 0.4588}",0.4588,0.0
+利申業內人士,Insiders in Lishen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+其實而家都係買新既醫保會好一的,"In fact, it’s better to buy a new medical insurance","{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}",0.4404,0.21212121212121213
+因為有的新既治療方法 舊果的未必會照顧到,Because some new treatments and old ones may not take care of,"{'neg': 0.193, 'neu': 0.807, 'pos': 0.0, 'compound': -0.3875}",-0.3875,0.11818181818181818
+醫保係香港嘅保障性未必及得上一份危疾，,Medical insurance is that the protection of Hong Kong may not be as critical as,"{'neg': 0.0, 'neu': 0.877, 'pos': 0.123, 'compound': 0.2411}",0.2411,0.0
+而理賠占比中，癌症大概占咗7成，,"Cancer accounts for about 70% of the claims,","{'neg': 0.386, 'neu': 0.614, 'pos': 0.0, 'compound': -0.6597}",-0.6597,0.0
+危疾+癌症護係幾多人嘅選擇，無論保障度還是划算度都係非常高，癌護一般百幾二百蚊就可以有2-3百萬嘅治療保障額度。,Critical illness + cancer care is the choice of many people. Both the degree of protection and the cost-effectiveness are very high. Cancer care generally has 2-3 million treatment guarantees for a few hundred or two hundred mosquitoes.,"{'neg': 0.267, 'neu': 0.607, 'pos': 0.126, 'compound': -0.8134}",-0.8134,0.1116
+個堆細公司有隨時更改保證部份既權利,The company has the right to change the guarantee part at any time,"{'neg': 0.0, 'neu': 0.857, 'pos': 0.143, 'compound': 0.25}",0.25,0.2857142857142857
+"我之前既公司唔細, 只係好多人唔知啫....","I used to be a small company, only a lot of people didn't know...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.125
+係我理解， Fix 死的意思唔係多2萬咁解.,"As I understand it, the meaning of Fix is ​​not more than 20 thousand solutions.","{'neg': 0.0, 'neu': 0.892, 'pos': 0.108, 'compound': 0.1779}",0.1779,0.5
+"你間野更係唔細,大公司離講你地個間又大回報又靚呢期我都賣你地個間多,雖然佣細==","Your field is more detailed, the big companies are far away from you, and the room is big and beautiful. I sell you a lot in the period, although the commission is fine ==","{'neg': 0.0, 'neu': 0.849, 'pos': 0.151, 'compound': 0.6908}",0.6908,0.3238095238095238
+"fix 死, 通常我會覺得指人壽額保額, 進星無寫明個保額....","Fix die, usually I think it refers to the life insured amount, Jinxing does not specify a sum insured...","{'neg': 0.178, 'neu': 0.822, 'pos': 0.0, 'compound': -0.5994}",-0.5994,-0.25
+算啦...,Forget it...,"{'neg': 0.655, 'neu': 0.345, 'pos': 0.0, 'compound': -0.2263}",-0.2263,0.0
+上次有無用card比保費﹖,Last time there was a useless card than the premium?,"{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4215}",-0.4215,-0.25
+"無,最後用返支票","No, use the check back","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"倘若受保人不幸身故，我們將提供一筆相等於保證現金價值及紅利之面值(如適用)的身故賠償。此賠償金額不少於調低投保額後(如適用)的基本總保費#11另加2,500美元/20,000港元(以個別保單貨幣計算)之總額 (惟需扣除未償還之保單貸款、利息(如 適用)及任何於保單年期內已套現紅利之現金價值)，用以解決燃眉之急，協助家人渡過難關。","If the insured person dies, we will provide a death compensation equal to the guaranteed cash value and the face value of the bonus (if applicable). This compensation amount is not less than the total amount of basic total premium #11 plus the amount of USD 2,500/HKD 20,000 (calculated in individual policy currency) after reducing the insured amount (if applicable) (subject to the deduction of outstanding policy loans and interest (e.g. (Applicable) and any cash value cashed out during the policy term), to resolve urgent needs and help family members to overcome difficulties.","{'neg': 0.054, 'neu': 0.726, 'pos': 0.22, 'compound': 0.9493}",0.9493,0.052083333333333336
+----------------------------------------------------------,-------------------------------------------------- --------,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"即係身故會有保證個金額加2,500美元/20,000港元做賠償, 保證金額係已繳保費加紅利之面值。","That is, there will be a guaranteed amount plus USD 2,500/HKD 20,000 for compensation upon death. The guaranteed amount is the face value of the premium paid plus bonus.","{'neg': 0.109, 'neu': 0.726, 'pos': 0.165, 'compound': 0.25}",0.25,0.0
+"我係保記AGENT, 睇睇下版友講既野覺得唔對路......","I am Bao Ke AGENT, and the next version of the friends said that Ye Ye feels that it is not right...","{'neg': 0.0, 'neu': 0.871, 'pos': 0.129, 'compound': 0.4767}",0.4767,-0.07142857142857142
+"(我唔會成日上O黎睇, 因為成日上其實都唔會有單返, 努力搵生意好過)","(I don’t want to go to O Li Sui every day, because I don’t actually have a single return in all the days, so I try to make my business better)","{'neg': 0.0, 'neu': 0.873, 'pos': 0.127, 'compound': 0.4939}",0.4939,0.14285714285714288
+呢個定義我相信大家無誤解.,I believe that this definition is unmistakable.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+不過已交保費 + 20000,But the premium has been paid + 20000,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+咪即係唔係 fix 死， 因為第 2 3 4 5 年已繳保費都不同.,"Mi is not a fix die, because the premiums paid in 2 3 4 5 are different.","{'neg': 0.0, 'neu': 0.836, 'pos': 0.164, 'compound': 0.4847}",0.4847,0.0
+"保記有隻BL而家停左的了,預期條數好靚,但保證條數....幾嚇人","Keep in mind that there is only one BL and the home stops on the left. The expected number is pretty, but the number is guaranteed... a little scary","{'neg': 0.146, 'neu': 0.65, 'pos': 0.204, 'compound': 0.0145}",0.0145,-0.08958333333333332
+多謝澄清...,Thanks for clarification...,"{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}",0.4404,0.2
+"樓主你真係好熟行情, 更美好(BL) 剛剛停售, 取而代之既係美好人生","The landlord you are really familiar with the market, better (BL) has just been discontinued and replaced by a better life","{'neg': 0.0, 'neu': 0.766, 'pos': 0.234, 'compound': 0.7003}",0.7003,0.4583333333333333
+"不過呢隻產品重點唔係睇儲蓄成份, 相反係睇人壽成份........","However, only the product focus is not on the savings component, but on the life component...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"換言之, 你付出既保費, 可以槓桿到幾多倍保額。","In other words, if you pay both premiums, you can leverage to several times the sum assured.","{'neg': 0.074, 'neu': 0.794, 'pos': 0.132, 'compound': 0.2732}",0.2732,-0.0625
+"如果死都執著於預期回報, 真係有點捉錯用神..........","If death is obsessed with the expected return, the real system is a bit misleading...","{'neg': 0.409, 'neu': 0.591, 'pos': 0.0, 'compound': -0.8074}",-0.8074,-0.13333333333333333
+"""歸原紅利#6在保單年期內累積滾存，讓您的保單價值隨年月增長。當受保人身故時，該紅利的已公佈面值將被支付； 另一方面，當保單被退保或終止(因身故除外)時，該紅利之現金價值#6將被支付。歸原紅利#6的","""归原红利#6 accumulates rollover during the policy term, allowing your policy value to increase year by month. When the insured dies, the declared face value of the bonus will be paid; on the other hand, when the policy is refunded When the insurance is terminated or terminated (except for death), the cash value #6 of the bonus will be paid.","{'neg': 0.052, 'neu': 0.684, 'pos': 0.264, 'compound': 0.93}",0.93,-0.125
+"即可獲保證派發。""""","You can be guaranteed a distribution. """"","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"其實公佈係指一年一次﹖如果一年公佈一次, 歸原紅利應該一年多過一年...但現金價值會否一年多過一年﹖會否歸原紅利多咗現金價值少咗﹖","In fact, the announcement refers to once a year? If announced once a year, the return bonus should be more than one year...but will the cash value be more than one year? Will it return to the original bonus, more cash value and less?","{'neg': 0.0, 'neu': 0.723, 'pos': 0.277, 'compound': 0.9315}",0.9315,0.3416666666666667
+"想問下我想入保誠, 有邊個manager一定唔跟得 or 呃人 ?","I want to ask if I want to join Prudential, there must be a manager who can't follow or uh people?","{'neg': 0.0, 'neu': 0.789, 'pos': 0.211, 'compound': 0.4215}",0.4215,0.0
+那個你認為一定唔跟得 or 呃人的manager就一定不能跟!,The manager you think must not be followed or er people must not follow!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+你不如問下佢 點搵客，有咩計劃,"You might as well ask Xiaqu some customers, there are plans","{'neg': 0.0, 'neu': 0.826, 'pos': 0.174, 'compound': 0.2732}",0.2732,0.0
+同d plan 有咩優勢，自己再比較啦,"It has the same advantages as d plan, so compare it yourself","{'neg': 0.0, 'neu': 0.815, 'pos': 0.185, 'compound': 0.3612}",0.3612,0.0
+我又相信，即使話天下烏鴉一樣黑，都有d 唔同ge 有黑d 同有d 近白色一d ge,"I also believe that even if the crows in the world are as dark as black, they all have d.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.15833333333333333
+假設褲通有400個Manager，你係呢度得悉其中廿個唔多惦ge，咁又係咪等於,"Assuming that there are 400 Managers in Pants, you know that 20 of them are too many, and they are equal","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.25
+另外ge 380個係好惦呢？你不如睇睇呢個帖子先諗啦：—,What about ge 380 departments? You might as well look at this post first:-,"{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.2732}",0.2732,0.25
+真心分享：失業率飆升，勢將引發更多人轉投保險業,"Sincerely share: the unemployment rate soars, it will trigger more people to switch to the insurance industry","{'neg': 0.131, 'neu': 0.631, 'pos': 0.239, 'compound': 0.34}",0.34,0.5
+"歷史在不斷重複，金融海嘯已經殺到埋身，U-Right, 泰林以及往後可能結業的公司，","History continues to repeat, the financial tsunami has been buried, U-Right, Tailin and companies that may end in the future,","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+必將激化本地失業率，在人浮於事的年代，投身保險未嘗唔係個別失業人士的選擇，,"It will definitely intensify the local unemployment rate. In an era when people are in trouble, it is not an option for individual unemployed to take out insurance.","{'neg': 0.168, 'neu': 0.751, 'pos': 0.081, 'compound': -0.4404}",-0.4404,-0.05
+如果你們真係有興趣入呢行的話，最重要是要自問是否了解下列的事實：,"If you are really interested in entering the business, the most important thing is to ask yourself if you understand the following facts:","{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.6232}",0.6232,0.2875
+一、年紀21歲或以上(思想基本上成熟，應該知道自己為什麼做和做些什麼)。,"1. Aged 21 or above (the thoughts are basically mature, you should know why and what you do).","{'neg': 0.0, 'neu': 0.859, 'pos': 0.141, 'compound': 0.4215}",0.4215,0.0
+二、起碼中五以上程度(有能力應付考牌需要) 保險公司會提供課程彼你。,2. At least 5 or above (with the ability to cope with the needs of the test card) The insurance company will provide courses for you.,"{'neg': 0.0, 'neu': 0.916, 'pos': 0.084, 'compound': 0.3182}",0.3182,-0.15
+三、需要人際關系良好，朋友夠多(初入行的時候的有利條件) 你要充份評估一下啦。,3. You need good interpersonal relationships and enough friends (advantages when you first enter the business). You need to fully evaluate it.,"{'neg': 0.0, 'neu': 0.691, 'pos': 0.309, 'compound': 0.8176}",0.8176,0.31666666666666665
+四、表達能力夠強，具說服力。(做AGENT的基本條件，也可以透過培訓得以改進),"Fourth, the expression ability is strong enough and convincing. (The basic conditions for doing AGENT can also be improved through training)","{'neg': 0.0, 'neu': 0.599, 'pos': 0.401, 'compound': 0.886}",0.8859999999999999,0.18666666666666668
+五、有能力面對壓力和挑戰，也要習慣面對拒絕。(否則很難涯下去的)你要衡量一下了。,"5. If you have the ability to face pressure and challenges, you should also get used to facing rejection. (Otherwise it is difficult to go down) You have to weigh it.","{'neg': 0.217, 'neu': 0.688, 'pos': 0.095, 'compound': -0.6808}",-0.6808,-0.3277777777777778
+六、個性要積極，思想要正面(否則你會找不到當中的意義) 需要不時自我調整心態。,"Sixth, the personality should be positive, and the thought should be positive (otherwise you will not find the meaning). From time to time, you need to adjust your mentality.","{'neg': 0.0, 'neu': 0.789, 'pos': 0.211, 'compound': 0.802}",0.802,0.2272727272727273
+七、要善於管理時間，有自律性。(知道規則和方法之後，一切要靠你自己去努力),"7. Be good at managing time and self-discipline. (After knowing the rules and methods, everything depends on your own efforts)","{'neg': 0.0, 'neu': 0.868, 'pos': 0.132, 'compound': 0.4404}",0.4404,0.6499999999999999
+八、千萬不要以為自己在打工等出糧，你是在做生意，做成一單計一單。(無生意就無收入),8. Don't think that you are working and waiting for food. You are doing business and making one bill. (No income without business),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+九、認清自己的路向，審慎地作出決擇之後，就要勇往直前，堅定地奮鬥到底。(否則注定失敗),"9. After recognizing your own way and making a careful decision, you must move forward and fight firmly to the end. (Otherwise doomed to fail)","{'neg': 0.313, 'neu': 0.638, 'pos': 0.049, 'compound': -0.8658}",-0.8658,-0.05
+十、要同請你的人深入溝通，自我評估能否跟他/她合得來。(入行之後，他/她對你,"10. Communicate in depth with the person who asked you to see if the self-assessment is compatible with him/her. (After entering, he/she treats you","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+的成敗影響至為深遠),The impact of the success or failure is profound,"{'neg': 0.236, 'neu': 0.5, 'pos': 0.264, 'compound': 0.1027}",0.1027,0.0222222222222222
+十一、預支佣金可能變成入職後的負債，必須留意有關還款規定，免得引起不必要的爭拗。,"11. The advance commission may become a liability after employment, and you must pay attention to the repayment regulations to avoid unnecessary disputes.","{'neg': 0.283, 'neu': 0.717, 'pos': 0.0, 'compound': -0.6705}",-0.6705,-0.4
+真心分享：,Sincerely share:,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.6486}",0.6486,0.5
+保險呢行具有其獨特性，產品特質亦無法取代，銷售技巧較重感性，並非任何人都可以輕易掌握，,"Insurance has its own uniqueness, and product characteristics cannot be replaced. Sales skills are more sensitive, and not everyone can easily master it.","{'neg': 0.085, 'neu': 0.915, 'pos': 0.0, 'compound': -0.2584}",-0.2584,0.4083333333333334
+危中有機也要自問個人的性格特質和毅力是否足以應付業績要求，兼且努力與收成並非必然成正比，在業績主導去留的保險業來講，要入行必須要三思。,"Weizhong also has to ask himself whether his personality and perseverance are sufficient to meet performance requirements, and that efforts and results are not necessarily proportional to performance. In the insurance industry where performance is the mainstay, it is necessary to think twice.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+咁呢個交返比你地保記講。,This return is better than your baoji.,"{'neg': 0.0, 'neu': 0.674, 'pos': 0.326, 'compound': 0.4404}",0.4404,0.5
+"在強勁的時候,是如圖中所言.","When it is strong, it is as shown in the figure.","{'neg': 0.0, 'neu': 0.752, 'pos': 0.248, 'compound': 0.5106}",0.5106,0.4333333333333333
+"在不足的時候,這個機制,又應如何運作?",How should this mechanism work in times of shortage?,"{'neg': 0.2, 'neu': 0.8, 'pos': 0.0, 'compound': -0.25}",-0.25,0.0
+看看樓主對答覆滿意不。,See if the landlord is satisfied with the reply.,"{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}",0.4215,0.5
+因為太多地方係咁樣去演繹遺留資產.,Because there are too many places to interpret legacy assets.,"{'neg': 0.0, 'neu': 0.841, 'pos': 0.159, 'compound': 0.1779}",0.1779,0.5
+所以可以澄清一下,So can clarify,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+根據 ,according to,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+，遺留資產是在給付給客戶應得的收益和賠償後，仍然多出來的回報，多出來的回報第一是由於公司的投資收益超過預期，第二則是部分應給付的賠償但未有合法受益人前來領取（比如英國保誠參與過鐵達尼號、第一次及第二次世界大戰的賠付，但由於部分死傷者無法尋找到受益人，該類賠償就作為遺留資產保存下來）。而遺留資產一直為公司現在的新業務提供支持。遺留資產給保誠的新業務的支持則又體現在兩方面：第一，由於遺留資產的所有權屬於保誠，公司可以自由地利用遺留資產進行高風險高回報的投資，而,"The legacy assets are the extra returns after the benefits and compensation due to the customers are paid. The extra returns are due to the company’s investment income exceeding expectations, and the second is partial compensation due but not legal. The beneficiaries come to collect (for example, British Prudential participated in the payment of the Titanic, World War I and World War II, but because some of the dead and injured cannot find the beneficiary, such compensation is saved as legacy assets). The legacy assets have always provided support for the company's new business. The support of legacy assets to Prudential’s new business is reflected in two aspects: first, because the ownership of legacy assets belongs to Prudential, the company can freely use the legacy assets to make high-risk and high-return investments, and","{'neg': 0.164, 'neu': 0.672, 'pos': 0.164, 'compound': -0.7214}",-0.7214,0.009848484848484856
+（詳見第二點保誠收益分紅分配比例），但則,"(See the second point for Prudential’s income distribution ratio), but then","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+。第二，,". second,","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+原文網址：,Original URL:,"{'neg': 0.0, 'neu': 0.303, 'pos': 0.697, 'compound': 0.3182}",0.3182,0.375
+樓上呢個講法係無認真考證過資料，如果院長都咁講，亦難怪成間公司對遺留資產真正來源都有誤解。,"Upstairs, the Faculty of Law has not carefully examined the information. If the Dean speaks it, it is no wonder that Chengjian Company has misunderstood the true source of the legacy assets.","{'neg': 0.159, 'neu': 0.721, 'pos': 0.12, 'compound': -0.1205}",-0.1205,0.2
+保記遺留資產正確來源係股東資金。,Keeping the correct source of legacy assets is shareholders’ funds.,"{'neg': 0.0, 'neu': 0.841, 'pos': 0.159, 'compound': 0.1779}",0.1779,0.0
+"是的,坊間有大量不實資訊,呢個係其中一個,而所謂保誠訓練學院又是什麼一回事呢?","Yes, there is a lot of untrue information, this is one of them, and what is the so-called Prudential Training Academy?","{'neg': 0.0, 'neu': 0.881, 'pos': 0.119, 'compound': 0.4019}",0.4019,0.0
+呢個值得先考究一返。,This one deserves to be examined first.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.25
+資料來源:,source:,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"遺留資產是透過不同的來源長年累積,其中一個是","Legacy assets are accumulated over many years through different sources, one of which is","{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.1779}",0.1779,0.25
+"而PDF中還有一圖,就是","And there is a picture in the PDF, that is","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"遺留資產的主要作用不是支付預期紅利,而是維持公司穩定性。","The main role of legacy assets is not to pay expected dividends, but to maintain company stability.","{'neg': 0.0, 'neu': 0.857, 'pos': 0.143, 'compound': 0.1275}",0.1275,0.033333333333333326
+"其他來源,沒有列出,那些先不管,而針對討論緩衝機制-","Other sources, not listed, those that are ignored first, and for the discussion buffer mechanism-","{'neg': 0.141, 'neu': 0.859, 'pos': 0.0, 'compound': -0.3182}",-0.3182,0.0625
+"將高於平均線的回報取之予遺留資產(因圖2所言,將機制與遺留資產連結在一起)中,在底於平均線的時候,撥出以支付紅利。","Take the above-average return to the legacy assets (as shown in Figure 2, linking the mechanism to the legacy assets), when the bottom line is below the average line, set aside to pay dividends.","{'neg': 0.039, 'neu': 0.866, 'pos': 0.095, 'compound': 0.25}",0.25,-0.15
+機制會保留投資回報較好年份之部份回報，以增加投資回報較低年份之紅利率。,The mechanism will retain part of the returns in the years with better investment returns to increase the dividend rate in the years with lower investment returns.,"{'neg': 0.07, 'neu': 0.764, 'pos': 0.166, 'compound': 0.4588}",0.4588,0.5
+而保記的紅利結構除了定期紅利是複式機制之外(美式為單息),"The dividend structure of Baoji, in addition to the regular dividend is a double mechanism (the American type is simple interest)","{'neg': 0.0, 'neu': 0.87, 'pos': 0.13, 'compound': 0.4588}",0.4588,0.0
+其還有定期紅利與終期紅利,It also has regular dividends and terminal dividends,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+而定期紅利,And regular bonus,"{'neg': 0.0, 'neu': 0.364, 'pos': 0.636, 'compound': 0.5423}",0.5423,0.0
+1. 定期紅利或會被稱為歸原紅利、現金紅利或定期紅利，視乎計劃的類型而定。,"1. The regular bonus may be called a return bonus, cash bonus or regular bonus, depending on the type of plan.","{'neg': 0.0, 'neu': 0.548, 'pos': 0.452, 'compound': 0.9325}",0.9325,0.0
+2. 於保單退保時，我們會支付定期紅利的非保證現金價值，而非定期紅利的面值。,"2. When the policy is surrendered, we will pay the non-guaranteed cash value of the regular dividend instead of the face value of the regular dividend.","{'neg': 0.048, 'neu': 0.788, 'pos': 0.164, 'compound': 0.5267}",0.5267,0.0
+3. 終期紅利或會被稱為特別紅利或增長紅利，視乎計劃的類型而定。,"3. Terminal bonuses may be called special bonuses or growth bonuses, depending on the type of plan.","{'neg': 0.0, 'neu': 0.427, 'pos': 0.573, 'compound': 0.9442}",0.9442,0.35714285714285715
+再因其歸原紅利以前瞻性方法來釐定，目的是為保單持有人在保單期內提供一個相對穩定的回報。,"It is determined by the prospective method of its return to original dividend, the purpose is to provide policyholders with a relatively stable return during the policy period.","{'neg': 0.0, 'neu': 0.784, 'pos': 0.216, 'compound': 0.7096}",0.7096,0.1875
+現金紅利則採取往後看的方法，並參照過往的投資表現。換句話說，現金紅利較依賴過往基金的表現來釐定。,"The cash dividend takes the method of looking back, and refers to the past investment performance. In other words, cash dividends are determined more by the performance of past funds.","{'neg': 0.0, 'neu': 0.924, 'pos': 0.076, 'compound': 0.34}",0.34,-0.025
+個 Academy 即係培訓部門，負責統籌代理唧基本教學同埋CPD課程，有全職員工，同埋幾十個本身係代理嘅星級導師，一般係教基本嘢。,"This Academy is the training department, responsible for coordinating the agent's basic teaching and CPD courses. There are full-time employees, and dozens of star-rated instructors who are agents themselves. They generally teach basic education.","{'neg': 0.0, 'neu': 0.935, 'pos': 0.065, 'compound': 0.3182}",0.3182,0.0625
+投資有風險，價值可升可跌，阿彌陀佛。,"Investment is risky, value can go up and down, Amitabha.","{'neg': 0.148, 'neu': 0.656, 'pos': 0.197, 'compound': 0.1531}",0.1531,-0.1555555555555556
+"精準,簡潔....",Accurate and concise...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.2500000000000001
+唔怪得啦.....,No wonder...,"{'neg': 0.688, 'neu': 0.312, 'pos': 0.0, 'compound': -0.296}",-0.29600000000000004,0.0
+早幾年好景時,Good times a few years ago,"{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}",0.4404,0.25
+"開長單，供到6,7 年就可以睇位走","Open a long order, and it will be available in 6 or 7 years","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.11666666666666667
+新既單就無了,The new one is gone,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.13636363636363635
+一直都無一個可以清楚顯示保記紅利結構既文章.,There has never been an article that clearly shows the retention bonus structure.,"{'neg': 0.0, 'neu': 0.64, 'pos': 0.36, 'compound': 0.7351}",0.7351,0.10000000000000002
+"麻煩蛙兄,鈔兄,同升鬥士確認一下","Trouble Brother Frog, Brother Bill, check with the fighter","{'neg': 0.239, 'neu': 0.619, 'pos': 0.142, 'compound': -0.2732}",-0.2732,-0.2
+36樓的理解.有沒有錯或需要補充?,36th floor understanding. Is there anything wrong or need to add?,"{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}",-0.4767,-0.5
+你講佐好多嘢，好難俾意見,"You talk so much, it’s hard to get opinions","{'neg': 0.172, 'neu': 0.828, 'pos': 0.0, 'compound': -0.1689}",-0.1689,-0.2916666666666667
+最近發覺保誠更美好計劃回報只有預期一半 點算,Recently I found that Prudential’s better plan returns only half of the expected,"{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.4404}",0.4404,0.04666666666666668
+可以影張單來看看嗎？,Can you take a look at it?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+點知點算呀?,Do you know?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+你選擇佢既時候應該知道會有機會有變架.,"When you choose Qu, you should know that there will be a chance to change.","{'neg': 0.0, 'neu': 0.875, 'pos': 0.125, 'compound': 0.25}",0.25,0.0
+當初你買離做咩?,What did you buy and do?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+可以點算..,You can count...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+唔係斬立決，長痛不如短痛,"It’s not decisive, long pain is worse than short pain","{'neg': 0.481, 'neu': 0.358, 'pos': 0.161, 'compound': -0.6558}",-0.6558,-0.15
+"就係咬緊牙關供到期滿""當""買個保障囉~~",It’s about clenching your teeth and buying a guarantee when it expires~~,"{'neg': 0.0, 'neu': 0.846, 'pos': 0.154, 'compound': 0.25}",0.25,0.0
+保證回報都會增張架，,"Guaranteed returns will increase the shelf,","{'neg': 0.0, 'neu': 0.685, 'pos': 0.315, 'compound': 0.3182}",0.3182,0.0
+"即使非保證派得一半都係叫做增長,","Even if the non-guaranteed half is called growth,","{'neg': 0.0, 'neu': 0.729, 'pos': 0.271, 'compound': 0.3818}",0.3818,-0.16666666666666666
+總有一日會上返岸只係暫時天氣不似預期啫.,"One day, the return to the shore will only be temporary weather is not as expected.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.05
+UM...保記既紅利結構係特別.,UM...Bao Kee has a special bonus structure.,"{'neg': 0.0, 'neu': 0.446, 'pos': 0.554, 'compound': 0.7351}",0.7351,0.35714285714285715
+不過傳統人壽離講呢....,But what about traditional life...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+真係幾需要冒險...,Really need to take risks...,"{'neg': 0.344, 'neu': 0.656, 'pos': 0.0, 'compound': -0.2732}",-0.2732,0.2
+似乎身同感受,Seems to feel the same,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+希望啦 養老算,"Hope, pension plan","{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}",0.4404,0.0
+師兄講詳細d分享下,Brother tells in detail d share,"{'neg': 0.0, 'neu': 0.694, 'pos': 0.306, 'compound': 0.296}",0.29600000000000004,0.0
+我都係受害者,I am a victim,"{'neg': 0.412, 'neu': 0.588, 'pos': 0.0, 'compound': -0.2732}",-0.2732,-0.07500000000000001
+"英式紅利玩復式,潛在回報高.但派唔足,就無意義...","The English bonus plays multiple, and the potential return is high. But if you don’t pay enough, it makes no sense...","{'neg': 0.175, 'neu': 0.676, 'pos': 0.149, 'compound': -0.1655}",-0.1655,0.032
+過去有冇試過跑贏大巿,"In the past, there have been no attempts to outperform the market","{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.296}",-0.29600000000000004,-0.25
+應該無 年增長是騙局,There should be no annual growth is a scam,"{'neg': 0.574, 'neu': 0.426, 'pos': 0.0, 'compound': -0.7955}",-0.7955,0.0
+咁你又唔好咁講，做唔到嗰預期啫，唔係騙局，佢又無話唔賠償。,"Well, you don’t want to talk about it anymore. It’s not as good as expected. It’s not a scam. It’s nothing to pay.","{'neg': 0.086, 'neu': 0.641, 'pos': 0.274, 'compound': 0.5086}",0.5086,0.3
+最近發覺保誠更美好計劃回報只有預期一半 點算,Recently I found that Prudential’s better plan returns only half of the expected,"{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.4404}",0.4404,0.04666666666666668
+可以影張單來看看嗎？,Can you take a look at it?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+點知點算呀?,Do you know?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+你選擇佢既時候應該知道會有機會有變架.,"When you choose Qu, you should know that there will be a chance to change.","{'neg': 0.0, 'neu': 0.875, 'pos': 0.125, 'compound': 0.25}",0.25,0.0
+當初你買離做咩?,What did you buy and do?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+可以點算..,You can count...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+唔係斬立決，長痛不如短痛,"It’s not decisive, long pain is worse than short pain","{'neg': 0.481, 'neu': 0.358, 'pos': 0.161, 'compound': -0.6558}",-0.6558,-0.15
+"就係咬緊牙關供到期滿""當""買個保障囉~~",It’s about clenching your teeth and buying a guarantee when it expires~~,"{'neg': 0.0, 'neu': 0.846, 'pos': 0.154, 'compound': 0.25}",0.25,0.0
+保證回報都會增張架，,"Guaranteed returns will increase the shelf,","{'neg': 0.0, 'neu': 0.685, 'pos': 0.315, 'compound': 0.3182}",0.3182,0.0
+"即使非保證派得一半都係叫做增長,","Even if the non-guaranteed half is called growth,","{'neg': 0.0, 'neu': 0.729, 'pos': 0.271, 'compound': 0.3818}",0.3818,-0.16666666666666666
+總有一日會上返岸只係暫時天氣不似預期啫.,"One day, the return to the shore will only be temporary weather is not as expected.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.05
+UM...保記既紅利結構係特別.,UM...Bao Kee has a special bonus structure.,"{'neg': 0.0, 'neu': 0.446, 'pos': 0.554, 'compound': 0.7351}",0.7351,0.35714285714285715
+不過傳統人壽離講呢....,But what about traditional life...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+真係幾需要冒險...,Really need to take risks...,"{'neg': 0.344, 'neu': 0.656, 'pos': 0.0, 'compound': -0.2732}",-0.2732,0.2
+似乎身同感受,Seems to feel the same,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+希望啦 養老算,"Hope, pension plan","{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}",0.4404,0.0
+師兄講詳細d分享下,Brother tells in detail d share,"{'neg': 0.0, 'neu': 0.694, 'pos': 0.306, 'compound': 0.296}",0.29600000000000004,0.0
+我都係受害者,I am a victim,"{'neg': 0.412, 'neu': 0.588, 'pos': 0.0, 'compound': -0.2732}",-0.2732,-0.07500000000000001
+"英式紅利玩復式,潛在回報高.但派唔足,就無意義...","The English bonus plays multiple, and the potential return is high. But if you don’t pay enough, it makes no sense...","{'neg': 0.175, 'neu': 0.676, 'pos': 0.149, 'compound': -0.1655}",-0.1655,0.032
+過去有冇試過跑贏大巿,"In the past, there have been no attempts to outperform the market","{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.296}",-0.29600000000000004,-0.25
+應該無 年增長是騙局,There should be no annual growth is a scam,"{'neg': 0.574, 'neu': 0.426, 'pos': 0.0, 'compound': -0.7955}",-0.7955,0.0
+咁你又唔好咁講，做唔到嗰預期啫，唔係騙局，佢又無話唔賠償。,"Well, you don’t want to talk about it anymore. It’s not as good as expected. It’s not a scam. It’s nothing to pay.","{'neg': 0.086, 'neu': 0.641, 'pos': 0.274, 'compound': 0.5086}",0.5086,0.3
+無錯 小弟的確係岩岩投身左宜行 但又會關事囉,"That's right, my younger brother is indeed Yanyan devoted to Zuo Yixing, but it will matter.","{'neg': 0.0, 'neu': 0.824, 'pos': 0.176, 'compound': 0.25}",0.25,0.14285714285714285
+同埋我買果陣又未入行 都係講事實姐 咁關D咩事呢?,"When I bought the fruit array and didn't enter the industry, it's all about facts. What's the matter?","{'neg': 0.0, 'neu': 0.939, 'pos': 0.061, 'compound': 0.0258}",0.0258,0.0
+"另外, 每個人都係睇自己需要而決定買唔買","In addition, everyone decides to buy according to their own needs.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.6
+如果自己認為無咁既需要 咁真係唔洗買架,"If you think you don’t need it, you don’t need to wash it.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+最後 我真心唔明白師兄為何咁有攻擊性,"In the end, I really don’t understand why Brother is aggressive","{'neg': 0.138, 'neu': 0.862, 'pos': 0.0, 'compound': -0.1531}",-0.1531,0.2
+如果你可能當初有D唔好既經歷 咁我理解既,"If you might have a good experience, I understand both","{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}",0.4404,0.7
+除了醫療意外需要買，如非董事、家庭支柱，其實不需要買人壽甚至人壽的儲蓄保險。,"Except for medical accidents, such as non-directors and family pillars, there is no need to buy life insurance or even life insurance.","{'neg': 0.184, 'neu': 0.816, 'pos': 0.0, 'compound': -0.5423}",-0.5423,0.0
+"我有個朋友就是買了5年期儲保, 每年供三萬多美金, 但要是頭一年身故只賠他自己供的三萬多, 之後幾年身故都是賠自己供的金額, 五年後cut單要倒貼, 最少要17年才可拿回本金, 這完全就是不平等條約, 不是嗎?","I have a friend who bought a five-year storage deposit and provided more than 30,000 US dollars per year, but if he died in the first year, he would only pay more than 30,000 for his own death. After five years, the cut slip must be posted upside down, and it takes at least 17 years to get back the principal. This is completely an unequal treaty, isn't it?","{'neg': 0.217, 'neu': 0.758, 'pos': 0.025, 'compound': -0.951}",-0.951,0.16604938271604938
+"我自己供的一份已十多年了, 每年供約五千美金, 保額是三十萬美金, 就算你第一年身故就是賠三十萬美金, 不是自己供的數字, 現時的保險就是這樣騙人的嗎?","I have provided a copy for more than ten years. I provide about 5,000 US dollars a year. The sum assured is 300,000 US dollars. Even if you die in the first year, you will lose 300,000 US dollars. It is not the number you provided. The current insurance Is that so deceiving?","{'neg': 0.178, 'neu': 0.781, 'pos': 0.041, 'compound': -0.8145}",-0.8145,0.1875
+好問題,good question,"{'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}",0.4404,0.7
+還有那个估計紅利，永遠高估，兼且期滿日期更要100%留心，不要听AGENT片面之詞，總結儲蓄保等於垃圾,"There is also the estimated dividend, which is always overestimated, and the expiration date should be 100% careful. Don’t listen to AGENT’s one-sided words and conclude that saving is equal to garbage","{'neg': 0.0, 'neu': 0.951, 'pos': 0.049, 'compound': 0.1531}",0.1531,-0.05
+千萬不要買萬通,Never buy Wantong,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+想問什么？,What do you want to ask?,"{'neg': 0.0, 'neu': 0.794, 'pos': 0.206, 'compound': 0.0772}",0.0772,0.0
+成篇都歪理,Lie,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+其實關咩事，你買左20年儲蓄危疾，以儲錢二十年計回報係低,"In fact, it’s a matter of concern, you buy a critical illness for saving for 20 years, and the return is low based on 20 years of saving","{'neg': 0.22, 'neu': 0.745, 'pos': 0.034, 'compound': -0.7184}",-0.7184,0.0
+呢二十年入面既消費型危疾其實無收你錢。,"In fact, you haven't charged you money for a consumer-critical illness for two decades.","{'neg': 0.166, 'neu': 0.737, 'pos': 0.098, 'compound': -0.2751}",-0.2751,0.0
+保障左你20年危疾，仲有附加既住院保會減左你價，附加住院平左保又唔計？,"To protect you from a critical illness for 20 years, Zhong You added that both the hospitalization insurance will reduce your price, and the additional hospitalization will not count?","{'neg': 0.149, 'neu': 0.774, 'pos': 0.077, 'compound': -0.34}",-0.34,0.0
+"呢個問題一早已經存在, 非保證, 可有可無, 可多可少, 只係你發覺得太遲","This problem has existed for a long time, non-guaranteed, optional, optional, only because you feel it is too late","{'neg': 0.13, 'neu': 0.87, 'pos': 0.0, 'compound': -0.4019}",-0.4019,-0.11666666666666665
+實際上 保記 係順境時 係唔係好分過其他公司,"In fact, it’s good to remember that when it’s in good times, it’s not a good company.","{'neg': 0.108, 'neu': 0.63, 'pos': 0.261, 'compound': 0.5258}",0.5258,0.3499999999999999
+"我想問下, 保記呢隻更美好計劃內的紅利是否唔可以隨便提取架?","I would like to ask, Bao Bao, can only the bonus in the better plan be withdrawn at random?","{'neg': 0.0, 'neu': 0.643, 'pos': 0.357, 'compound': 0.836}",0.836,0.0
+買多份對冲下lor,Buy multiple hedging down lor,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.07777777777777779
+"我記得兩三年前左右吧.當時有個保記走出離既AGENT,雖然離開左保記,仲非常沉迷紅利,你知我從來打保證.唔多信紅利.準投保人要就無計啦.就講結構...","I remember about two or three years ago. At that time, there was a bailout who walked out of AGENT. Although he left Zuo Baoji, Zhong was very addicted to the dividend. . Just talk about structure...","{'neg': 0.037, 'neu': 0.963, 'pos': 0.0, 'compound': -0.1027}",-0.1027,-0.26
+"不過佢拎一大堆野出離,證明以往既輝煌咁...","However, Qu carried a lot of wild departures, which proved to be brilliant in the past...","{'neg': 0.0, 'neu': 0.798, 'pos': 0.202, 'compound': 0.5859}",0.5859,0.25
+"過去係真係勁過既,不過呢家野始終不保證.對於紅利既態度,間間一樣。 只係佢行既係復式,呢度潛在回報就較高。","In the past, the relationship between the real and the real has been strong, but the family has never guaranteed it. The attitude towards dividends is the same from time to time. If it's just a channel, it's a compound, so the potential return is higher.","{'neg': 0.0, 'neu': 0.954, 'pos': 0.046, 'compound': 0.2846}",0.2846,0.11904761904761905
+"但如果係我賣既話,我會簡....老A或太空人年期人壽...之前我都有單CASE,搵左一陣用邊間好,本來有考慮保記BL.但保證位置實在太底....","But if you sell it to me, I will Jane... old age or astronaut life... I used to have a single case before, and I used the left side for a while, it was originally considered to keep BL. But guarantee The location is too low...","{'neg': 0.054, 'neu': 0.895, 'pos': 0.051, 'compound': -0.0387}",-0.0387,0.08071428571428571
+"拿.都係個句,我個人追求保證而已,唔代表抨擊緊保記或任何公司既紅利。","Take. It’s a sentence. I personally pursue guarantees. Well, the representative criticizes Treasury or any company as a bonus.","{'neg': 0.096, 'neu': 0.558, 'pos': 0.347, 'compound': 0.6486}",0.6486,0.0
+賠條毛,Indemnity,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+都好，有條毛玩吓。,"All good, there is a hairy scare.","{'neg': 0.288, 'neu': 0.45, 'pos': 0.261, 'compound': -0.0772}",-0.0772,0.7
+草夠100條仲可以變毛記,There are enough 100 grasses to change hair,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+住葵涌仲可以申請上巿，正到呢。,"Live in Kwai Chung Chung can apply for listing, just arrived.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.13636363636363635
+我好唔喜歡個間奇怪野.抽水都抽到上...香討都可以自己上啦...做咩要賣股比隻馬..,I don’t like a strange wild place. It’s all pumped up...Scents can be served on their own...you have to sell stocks more than horses.,"{'neg': 0.068, 'neu': 0.837, 'pos': 0.095, 'compound': 0.1779}",0.1779,0.18333333333333332
+你投保既時候唔係先注意賠償既咩？,"When you are insured, don’t pay attention to compensation first?","{'neg': 0.135, 'neu': 0.865, 'pos': 0.0, 'compound': -0.1027}",-0.1027,0.25
+"關於英式紅利, 有無人可以再講清楚D咩叫複式玩法? 我買果陣係睇佢悲觀情況果欄(假設年度化回報率比現時預期平均每年下跌約1.3%), 實際係咪會仲衰過悲觀情況","Regarding the British bonus, can anyone please explain clearly how to play the double-playing game? I bought the fruit column to look at the pessimistic situation fruit column (assuming that the annualized return rate is about 1.3% lower than the current expected average annually). Fading pessimism","{'neg': 0.126, 'neu': 0.683, 'pos': 0.191, 'compound': 0.5719}",0.5719,-0.09166666666666667
+賣比你個個仲係唔係度,Sell ​​better than you,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+計劃書有一版係全細字條款 ..,There is a full version of the plan in the plan.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.35
+裡面有一句 * 非保證紅利可能為零 .,There is a sentence * Non-guaranteed bonus may be zero.,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.5859}",0.5859,0.0
+咁你話會唔會,Yeah you will not,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.296}",0.29600000000000004,0.0
+"保誠除左複式結構之外,仲有樣野叫遺留遺產,但觸發條件不明.本身用意作為補償紅利不足情況.","In addition to the left double structure, Prudential has a wild style called legacy, but the trigger conditions are unknown. It is intended to compensate for the lack of dividends.","{'neg': 0.092, 'neu': 0.908, 'pos': 0.0, 'compound': -0.4497}",-0.4497,0.0
+但動用過的例子不多,But there are not many examples,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.25
+"所以變左象徵一樣既存在,實際幫助作用未見...","Therefore, the left symbol has the same existence, and the actual help function is not seen...","{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.4019}",0.4019,0.0
+"可能而家未去到要動用,又可能預留比進升用.","It may be that the home has not been used to use it, and it may be reserved for promotion.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+呢個我地無從得知,We have no way of knowing,"{'neg': 0.306, 'neu': 0.694, 'pos': 0.0, 'compound': -0.296}",-0.29600000000000004,0.0
+"只知紅利同投連也屬於投資類,本來就唔屬風險保障類","I only know that dividends and investment companies also belong to the investment category, and they are not originally classified as risk protection.","{'neg': 0.087, 'neu': 0.913, 'pos': 0.0, 'compound': -0.2732}",-0.2732,-0.09375
+最近發覺保誠更美好計劃回報只有預期一半 點算,Recently I found that Prudential’s better plan returns only half of the expected,"{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.4404}",0.4404,0.04666666666666668
+可以影張單來看看嗎？,Can you take a look at it?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+點知點算呀?,Do you know?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+你選擇佢既時候應該知道會有機會有變架.,"When you choose Qu, you should know that there will be a chance to change.","{'neg': 0.0, 'neu': 0.875, 'pos': 0.125, 'compound': 0.25}",0.25,0.0
+當初你買離做咩?,What did you buy and do?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+可以點算..,You can count...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+唔係斬立決，長痛不如短痛,"It’s not decisive, long pain is worse than short pain","{'neg': 0.481, 'neu': 0.358, 'pos': 0.161, 'compound': -0.6558}",-0.6558,-0.15
+"就係咬緊牙關供到期滿""當""買個保障囉~~",It’s about clenching your teeth and buying a guarantee when it expires~~,"{'neg': 0.0, 'neu': 0.846, 'pos': 0.154, 'compound': 0.25}",0.25,0.0
+保證回報都會增張架，,"Guaranteed returns will increase the shelf,","{'neg': 0.0, 'neu': 0.685, 'pos': 0.315, 'compound': 0.3182}",0.3182,0.0
+"即使非保證派得一半都係叫做增長,","Even if the non-guaranteed half is called growth,","{'neg': 0.0, 'neu': 0.729, 'pos': 0.271, 'compound': 0.3818}",0.3818,-0.16666666666666666
+總有一日會上返岸只係暫時天氣不似預期啫.,"One day, the return to the shore will only be temporary weather is not as expected.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.05
+UM...保記既紅利結構係特別.,UM...Bao Kee has a special bonus structure.,"{'neg': 0.0, 'neu': 0.446, 'pos': 0.554, 'compound': 0.7351}",0.7351,0.35714285714285715
+不過傳統人壽離講呢....,But what about traditional life...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+真係幾需要冒險...,Really need to take risks...,"{'neg': 0.344, 'neu': 0.656, 'pos': 0.0, 'compound': -0.2732}",-0.2732,0.2
+似乎身同感受,Seems to feel the same,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+希望啦 養老算,"Hope, pension plan","{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}",0.4404,0.0
+師兄講詳細d分享下,Brother tells in detail d share,"{'neg': 0.0, 'neu': 0.694, 'pos': 0.306, 'compound': 0.296}",0.29600000000000004,0.0
+我都係受害者,I am a victim,"{'neg': 0.412, 'neu': 0.588, 'pos': 0.0, 'compound': -0.2732}",-0.2732,-0.07500000000000001
+"英式紅利玩復式,潛在回報高.但派唔足,就無意義...","The English bonus plays multiple, and the potential return is high. But if you don’t pay enough, it makes no sense...","{'neg': 0.175, 'neu': 0.676, 'pos': 0.149, 'compound': -0.1655}",-0.1655,0.032
+過去有冇試過跑贏大巿,"In the past, there have been no attempts to outperform the market","{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.296}",-0.29600000000000004,-0.25
+應該無 年增長是騙局,There should be no annual growth is a scam,"{'neg': 0.574, 'neu': 0.426, 'pos': 0.0, 'compound': -0.7955}",-0.7955,0.0
+咁你又唔好咁講，做唔到嗰預期啫，唔係騙局，佢又無話唔賠償。,"Well, you don’t want to talk about it anymore. It’s not as good as expected. It’s not a scam. It’s nothing to pay.","{'neg': 0.086, 'neu': 0.641, 'pos': 0.274, 'compound': 0.5086}",0.5086,0.3
+請問有無中國人壽呢個計劃嘅詳細資料嗨。,Is there any detailed information about China Life's plan?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.4
+我想買。,I want to buy.,"{'neg': 0.0, 'neu': 0.698, 'pos': 0.302, 'compound': 0.0772}",0.0772,0.0
+樓主最好想清楚，我有好多朋友已中伏,"The landlord had better think about it, I have many friends who have fallen asleep","{'neg': 0.122, 'neu': 0.585, 'pos': 0.293, 'compound': 0.5423}",0.5423,0.5
+"唔建議樓主買, 可以考慮PRU / AIA 可以幫你做個計劃書",I don’t recommend that the landlord buy it. You can consider PRU / AIA to help you make a plan.,"{'neg': 0.0, 'neu': 0.776, 'pos': 0.224, 'compound': 0.6369}",0.6369,0.0
+最終無買到。不過我都唔鍾意AIA個計劃，仲搵笨。我好多朋友中咗伏，初時講到有幾好回報，依家供咗成10年，入面簡直係不願至評。,"In the end, it was not available. But I don't like AIA plans, Zhong Xun stupid. A lot of my friends were upset. When I first talked about how good it was, I made a family confession for 10 years.","{'neg': 0.199, 'neu': 0.652, 'pos': 0.149, 'compound': -0.395}",-0.395,-0.012500000000000013
+我買咗其他公司嘅5年產品了。,I have bought products from other companies for 5 years.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.125
+所以我最終買咗另一間公司嘅產品,So I ended up buying products from another company,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+保可惜保記的，非保証長期都不達標。已有多名朋友中伏。而且保記嘅計劃我感覺很主打中國市場，所以個人不喜歡,"It’s a pity to keep in mind, and non-guaranteed will not meet the standard for a long time. There are already many friends in the middle. And I think the plan of Baoji is very focused on the Chinese market, so I don’t like it.","{'neg': 0.042, 'neu': 0.789, 'pos': 0.169, 'compound': 0.762}",0.762,0.07857142857142857
+買著邊間产品？,Buying a marginal product?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+請問有無中國人壽呢個計劃嘅詳細資料嗨。,Is there any detailed information about China Life's plan?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.4
+我想買。,I want to buy.,"{'neg': 0.0, 'neu': 0.698, 'pos': 0.302, 'compound': 0.0772}",0.0772,0.0
+樓主最好想清楚，我有好多朋友已中伏,"The landlord had better think about it, I have many friends who have fallen asleep","{'neg': 0.122, 'neu': 0.585, 'pos': 0.293, 'compound': 0.5423}",0.5423,0.5
+"唔建議樓主買, 可以考慮PRU / AIA 可以幫你做個計劃書",I don’t recommend that the landlord buy it. You can consider PRU / AIA to help you make a plan.,"{'neg': 0.0, 'neu': 0.776, 'pos': 0.224, 'compound': 0.6369}",0.6369,0.0
+最終無買到。不過我都唔鍾意AIA個計劃，仲搵笨。我好多朋友中咗伏，初時講到有幾好回報，依家供咗成10年，入面簡直係不願至評。,"In the end, it was not available. But I don't like AIA plans, Zhong Xun stupid. A lot of my friends were upset. When I first talked about how good it was, I made a family confession for 10 years.","{'neg': 0.199, 'neu': 0.652, 'pos': 0.149, 'compound': -0.395}",-0.395,-0.012500000000000013
+我買咗其他公司嘅5年產品了。,I have bought products from other companies for 5 years.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.125
+所以我最終買咗另一間公司嘅產品,So I ended up buying products from another company,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+保可惜保記的，非保証長期都不達標。已有多名朋友中伏。而且保記嘅計劃我感覺很主打中國市場，所以個人不喜歡,"It’s a pity to keep in mind, and non-guaranteed will not meet the standard for a long time. There are already many friends in the middle. And I think the plan of Baoji is very focused on the Chinese market, so I don’t like it.","{'neg': 0.042, 'neu': 0.789, 'pos': 0.169, 'compound': 0.762}",0.762,0.07857142857142857
+買著邊間产品？,Buying a marginal product?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"如果actuarial analyst 來講, 係唔係general insurance比 life insurance少好多?","If actual analysts say, is there much less general insurance than life insurance?","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.03888888888888888
+"market 來講, 係唔係general insurance比 life insurance細好多?","In terms of market, is the general insurance much finer than life insurance?","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.125
+"通常以actuarial analyst 新入行來講, 係唔係life insurance機會, 空缺多d?","Generally speaking in terms of new entry into actual analysts, it is not a life insurance opportunity, how many vacancies?","{'neg': 0.0, 'neu': 0.872, 'pos': 0.128, 'compound': 0.4215}",0.4215,0.1715909090909091
+IFA最常賣的是SAVING PLAN.(101),The most commonly sold by IFA is SAVING PLAN. (101),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.1
+AIA 的101計劃~ =.=,AIA's 101 plan ~ =.=,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"414無良agent逍遙法外""30年財富之選""淪為騙财工具","414 The unscrupulous agent's impunity, ""30 years of wealth choice"" reduced to a tool for fraud","{'neg': 0.181, 'neu': 0.667, 'pos': 0.152, 'compound': -0.1531}",-0.1531,0.0
+"發現手續費要扣晒全期30年, 一個仙都冇得退!!","I found the handling fee to be deducted for a full period of 30 years, and a cent is not refundable!!","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.546875
+"PK!!! MaxxMutxxxx 101保單, 發現手續費要扣晒全期30年, 一個仙都冇得退!!","PK!!! MaxxMutxxxx 101 policy, found that the handling fee will be deducted for a full period of 30 years, a cent is not refundable!!","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.546875
+"保險月供基金!!供左4年, 如果依家取消要比番16年management charge,,,,,,,,,,,,!!!","Insurance Monthly Fund!! For the left 4 years, if you cancel at home, it is more than 16 years management charge,,,,,,,,,,,,!!!","{'neg': 0.137, 'neu': 0.863, 'pos': 0.0, 'compound': -0.4885}",-0.4885,0.48828125
+我老公俾angent呃左買宏x既邁駿投資理財計劃10...,My husband Biangent er left buy Hong x both Maijun investment financial plan 10...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"想cut AXA (100歲) 人壽儲蓄, 大家可唔可以幫忙睇睇我可以拎返幾多錢?","Want to cut AXA (100 years old) life savings, can you help me see how much money I can carry back?","{'neg': 0.087, 'neu': 0.747, 'pos': 0.166, 'compound': 0.2263}",0.2263,0.10000000000000002
+用人壽儲蓄保險儲錢將會越儲越少錢,Saving money with life savings insurance will save less and less money,"{'neg': 0.0, 'neu': 0.775, 'pos': 0.225, 'compound': 0.4939}",0.4939,-0.16666666666666666
+"保險佬最怕聽到你話買純保險,死得",Insurance guys are most afraid of hearing you to buy pure insurance and die,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.5994}",-0.5994,0.0380952380952381
+無肉食,Meatless,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+關于樓主的問題，我本人覺得對 actuarial analyst 來說，general insurance 比 life insurance 多多了。,"Regarding the question of the landlord, I personally feel that for actuarial analyst, there is much more general insurance than life insurance.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.18333333333333332
+對好多人來說保險的分類只有 人壽(life)和非人壽(general)。但其實人壽只係保險的其中一項，而非人壽(general)的種類就多好多。除了法定的保險：勞工和汽車，主要還有責任險、工程險、船險、火險、意外險等。General insurance 的產品理論上是可以無窮無盡。從最古老的船險，發展到現在；近幾十年來多了幾種保險，例如飛機險、恐怖主義險、太空險等。這些新保險都需要 actuarial analyst 來計算風險，從而厘定保費。,"For many people, the only categories of insurance are life and non-life. But in fact, life is only one item of insurance, not many types of life (general). In addition to statutory insurance: labor and automobile, there are mainly liability insurance, engineering insurance, ship insurance, fire insurance, accident insurance and so on. General insurance's products are theoretically endless. From the oldest ship insurance to the present; several types of insurance have been added in recent decades, such as aircraft insurance, terrorism insurance, and space insurance. These new insurances require actuarial analyst to calculate the risk and determine the premium.","{'neg': 0.164, 'neu': 0.836, 'pos': 0.0, 'compound': -0.9612}",-0.9612,0.04061771561771562
+原有的保險也會隨著時代的變更、保險情況的不同，而需要調整保費。從醫療和科技進步至新車新船新飛機等，都會影響到保費的厘定。這些厘定便需要actuarial analyst 來幫忙。,"The original insurance will also need to be adjusted according to changes in the times and different insurance conditions. From medical and technological advances to new cars, new ships and new aircraft, all will affect the determination of premiums. These determinations require actual analysts to help.","{'neg': 0.0, 'neu': 0.816, 'pos': 0.184, 'compound': 0.8176}",0.8176,0.112012987012987
+甚至，有時候一些特殊情況，需要特別度身訂造保險，更需要 actuarial analyst 和他對保險的專業知識，幫客人和保險公司訂造保險產品。,"Even, in some special cases, special tailor-made insurance is needed, and actuarial analyst and his expertise in insurance are needed to help customers and insurance companies to order insurance products.","{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.7964}",0.7964,0.35714285714285715
+所以，對 actuarial analyst 來說，在general insurance 的發展空間，遠比 life insurance 的多,"Therefore, for actuarial analyst, there is far more room for development in general insurance than life insurance","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.21666666666666667
+如果是想做設計或幫保險公司選擇基金產品，那些已經不是 life insurance 的范圍了，是金融那邊了,"If you want to design or help insurance companies choose fund products, those are no longer the scope of life insurance, but the financial side.","{'neg': 0.06, 'neu': 0.827, 'pos': 0.113, 'compound': 0.1027}",0.1027,0.0
+"我自己做GI, 我就發現GI公司唔係好睇重 actuarial analyst, 因為如果用burning cost去定價, 在市場上根本做唔到生意!","I do GI by myself, I found that GI company is not a good actuarial analyst, because if the burning cost is used to set the price, there is no business in the market!","{'neg': 0.133, 'neu': 0.867, 'pos': 0.0, 'compound': -0.5991}",-0.5991,-0.4375
+"actuarial 都只係得個計字, 無人睇.","Actuarial is only a word, no one looks.","{'neg': 0.239, 'neu': 0.761, 'pos': 0.0, 'compound': -0.296}",-0.29600000000000004,0.0
+你個人完全係問非所答!,Your personal question is totally unanswered!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.0625
+回應：,Response:,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+我也是做GI，做broker。在quote價的時候發現保險公司每年會因應風險而改變價錢。比如說 車會因為某類車容易撞或上一年被偷得多，或者某類工作上一年容易受傷，會因此提高保費。,"I also do GI and broker. When quoting the price, it was discovered that the insurance company would change the price every year in response to the risk. For example, a car may be stolen because of a certain type of car, or it may be stolen much in the previous year, or a certain type of work may be injured in the previous year, which will increase the premium.","{'neg': 0.139, 'neu': 0.781, 'pos': 0.081, 'compound': -0.6908}",-0.6908,0.059047619047619036
+保費的調整、定價，尤其是GI，保險公司做決定的通常有三種：,"The adjustment and pricing of premiums, especially GI, are usually made by insurance companies in three ways:","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.125
+1. 用同行保費作指標；這樣的actuarial analyst的作用就相對細左，因為 underwriters 靠的是市場價格，而不是 actuarial analysist 建議價格,"1. Use peer premiums as indicators; the role of such actual analysts is relatively narrow, because underwriters rely on market prices, not actuarial analysist suggested prices","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.06666666666666668
+2. 在新東西出來的時候，比如說新車，沒有什么記錄，underwriters也難定價。這個時候就要靠 actuarial analyst 來分析車行歷史和出來後一段時間內實行定價。因為市場上沒有指標,"2. When new things come out, such as new cars, there is no record, and underwriters are difficult to price. At this time, it is up to the actuarial analyst to analyze the history of the dealership and implement pricing within a certain period of time. Because there are no indicators in the market","{'neg': 0.117, 'neu': 0.847, 'pos': 0.036, 'compound': -0.5859}",-0.5859,-0.002597402597402604
+3. 再保險公司 (Re-insurer)在定保費，其實占的比重根多。他們要利用actuarial analyst 來計算某類保險的賠償情況，收取保險公司保費。再保險保費的調整，往往會令到保險公司增加保費，所謂羊毛出在羊身上...,"3. The re-insurer (Re-insurer) is setting a premium, which actually accounts for a large proportion. They need to use actual analysts to calculate the compensation of certain types of insurance and collect insurance company premiums. The adjustment of reinsurance premiums often causes insurance companies to increase their premiums. The so-called wool comes from the sheep...","{'neg': 0.0, 'neu': 0.923, 'pos': 0.077, 'compound': 0.5267}",0.5267,0.10714285714285714
+另外，如果沒有actuarial analyst，保險公司就沒有指標厘定保費，很容易因此而令保險公司 因賠償過多而“爆煲”。Actuarial analyst 的作用，最低限度，就是給 underwriters 建議，建議他們不要把價錢調到太低。以免影響到保險公司的健康。,"In addition, if there is no actual analyst, the insurance company has no indicators to determine the premium, it is easy for the insurance company to ""burst"" because of excessive compensation. The role of Actuarial analyst, at the very least, is to advise underwriters that they should not lower the price too low. So as not to affect the health of insurance companies.","{'neg': 0.094, 'neu': 0.837, 'pos': 0.069, 'compound': -0.1808}",-0.1808,-0.04133333333333333
+所以我覺得actuarial analyst 在保險業中的地位還是挺高的，縱使他們不是做什么生意。,"So I think the actual analyst's position in the insurance industry is still quite high, even if they are not doing business.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.08
+"Hi Briankingfox, it seems you know a lot about general insurance.  I just have seen a couple of your pertinent comments.  Thanks.","Hi Briankingfox, it seems you know a lot about general insurance. I just have seen a couple of your pertinent comments. Thanks.","{'neg': 0.0, 'neu': 0.879, 'pos': 0.121, 'compound': 0.4404}",0.4404,0.125
+"我得張business top up degree, 其實做insurance 行業既business analyst洗唔洗讀過d 半IT couse e.g. information system or data analyst degree?","I have to get a business top up degree. In fact, I’m a business analyst in the insurance industry. I didn’t read it. IT couse e.g. information system or data analyst degree?","{'neg': 0.0, 'neu': 0.945, 'pos': 0.055, 'compound': 0.2023}",0.2023,0.5
+去jobsdb 睇下d jd 就會知requirement,Go to jobsdb and watch d jd and you will know the requirement,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"見到讀business都請, but要work closely with IT, 冇it底其實做唔做得黎","When I read business, please, but I want to work closely with IT, I don’t know how to do it.","{'neg': 0.0, 'neu': 0.853, 'pos': 0.147, 'compound': 0.2732}",0.2732,0.0
+一般，我公司d BA 好熟system嘢,"Generally, my company's d BA is very familiar with the system.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.26875000000000004
+佢地有IT底的嗎？ 冇既其實係咪請左後邊做邊學insurance d system,"Is there any IT at all? No, actually, please do the insurance d system from the left","{'neg': 0.0, 'neu': 0.874, 'pos': 0.126, 'compound': 0.3182}",0.3182,0.0
+Seems most of them r IT background,Seems most of them r IT background,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.5
+Do you know what type of IT background ?,Do you know what type of IT background?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"寫一d我睇唔明的programme , 基本上工作係data mining","Write a program that I don’t understand, basically work data mining","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+謝謝。,Thank you.,"{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}",0.3612,0.0
+再多問一下，我見有d insurance 會請只有business degree background 既人做BA，咁佢地冇IT底下實際工作上其實洗唔洗做technique 既IT duty?,"I would like to ask more, I see that if there is d insurance, only business degree background will be used to do BA, and it is not possible to do technical and IT duty in actual work under IT?","{'neg': 0.0, 'neu': 0.94, 'pos': 0.06, 'compound': 0.3612}",0.3612,0.1
+咁business analysis 都有分好多，有d係support department ，有d係in company level,"There are a lot of business analysis, there is support department, there is d in company level","{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.4019}",0.4019,0.0
+有見過business statistic 底，有見過 pure statistic 底， 有見過computer science 底,"Have seen the bottom of business statistic, have seen the bottom of pure statistic, have seen the bottom of computer science","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.21428571428571427
+"最近見有保險公司請commodity underwriter, 小弟孤陋寡聞，想請教各位師兄commodity insurance即係乜野險種? 等於personal lines嗎？","Recently I saw an insurance company please commodity underwriter, my little brother is ignorant, I would like to ask all of you, brothers, that insurance is a kind of wild insurance? Is it equal to personal lines?","{'neg': 0.045, 'neu': 0.829, 'pos': 0.126, 'compound': 0.5145}",0.5145,0.08541666666666665
+係咪Ｑ仔？,Department Mi Qizai?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+Q仔就all lines吧，commercial lines算佔很多,"Q, all lines, commercial lines account for a lot","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+無錯係Q仔呀！,It’s the wrong one!,"{'neg': 0.531, 'neu': 0.469, 'pos': 0.0, 'compound': -0.5255}",-0.5255,-0.625
+原來commodity insurance = commercial lines，多謝指教。,"The original commodity insurance = commercial lines, thank you for your advice.","{'neg': 0.0, 'neu': 0.676, 'pos': 0.324, 'compound': 0.5859}",0.5859,0.1875
+澳洲叫法?,Australian name?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+美化左啲濕碎嘢,Beautify Zuoxi wet broken,"{'neg': 0.369, 'neu': 0.238, 'pos': 0.393, 'compound': 0.0516}",0.0516,-0.25
+唔臭，但cheap,"Smelly, but cheap","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.4
+有客就乜都唔使擔心，但揾個老實啲既人跟，揾啲古古惑惑或唔熟保單，連朋友都無埋。。,"If you are a guest, you don’t worry about it, but if you’re honest, you’re not alone. You don’t even have friends. .","{'neg': 0.062, 'neu': 0.6, 'pos': 0.338, 'compound': 0.8677}",0.8677,0.6
+除左哩兩間，點解唔考慮下其他公司？,"Except for the two rooms at Zuo Li, do you want to consider other companies?","{'neg': 0.0, 'neu': 0.915, 'pos': 0.085, 'compound': 0.0772}",0.0772,-0.125
+本人做左某大上市保險公司唔夠半年就投降,I am a big listed insurance company in Zuo and I don't surrender for half a year,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.08333333333333333
+發現原來保險公司因為人多一D資源都無,I discovered that the original insurance company had no resources because of more people.,"{'neg': 0.133, 'neu': 0.727, 'pos': 0.139, 'compound': 0.0258}",0.0258,0.4375
+"好彩遇到個朋友,介紹左去一間大型機構背景ga人壽公司",Hao Cai met a friend and introduced left to a large institutional background ga life company,"{'neg': 0.0, 'neu': 0.824, 'pos': 0.176, 'compound': 0.4939}",0.4939,0.10714285714285714
+"有客派比同事見,感覺比其他保險公司實在d","Seeing from a colleague, it feels more real than other insurance companies","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.19166666666666665
+可以warm cold market一齊發展,Warm cold market can develop together,"{'neg': 0.0, 'neu': 0.725, 'pos': 0.275, 'compound': 0.2263}",0.2263,0.0
+之前做銀行月入兩萬不過銀行減人工,"I used to make 20,000 yuan a month for the bank, but the bank reduced labor","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+就想出去試下希望可以早d買樓結婚,I want to go out and try to buy a house as soon as possible,"{'neg': 0.0, 'neu': 0.915, 'pos': 0.085, 'compound': 0.0772}",0.0772,0.0
+"點知feel倒奶奶地野,","Click to know feel poured grandma field,","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+好彩剛剛可以穩定落來,Lucky can just settle down,"{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.4215}",0.4215,0.08888888888888886
+所以個人建議去邊間都好做半年part time試下先,So I personally recommend that you go to the side and do it for half a year.,"{'neg': 0.0, 'neu': 0.853, 'pos': 0.147, 'compound': 0.4144}",0.4144,-0.08333333333333333
+"如果各位大大有更好搵錢機會希望介紹比小弟,謝謝","If you all have a better chance to spend money, I hope to introduce you, brother, thank you","{'neg': 0.0, 'neu': 0.576, 'pos': 0.424, 'compound': 0.8519}",0.8519,0.5
+點解你用新戶口﹖,Click to explain your new account?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.13636363636363635
+我成十年無上香討,I have been in the world for decades,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+我以前咪做大M記，最鍾意約客係公司見。。之後無做係因為plan對plan唔夠憾。。。,"I used to be a big M, and I'd like to see you most from the guest company. . After that, there is no reason to do it because plan is not good enough for plan. . .","{'neg': 0.109, 'neu': 0.831, 'pos': 0.059, 'compound': -0.2746}",-0.2746,0.037500000000000006
+剛日本返泥見到有人叫我喎,"Just back in Japan, I saw someone calling me","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+公司去﹖,Go to the company?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"師兄, 樓上位eddie師兄係M記, 你可以同佢傾下, 佢應該都唔錯...","Brother, upstairs, brother Eddie is M. You can fall down with Qu, Qu should be right...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.06507936507936506
+"不過你又想無壓力, 又想高職位, 不如傾個高title, conference room就借...","But if you want to be stress-free and want a high position, it is better to pour a high title, just borrow the conference room...","{'neg': 0.0, 'neu': 0.765, 'pos': 0.235, 'compound': 0.6956}",0.6956,0.2733333333333334
+話傾就傾到咩，，，行家就話姐,"If you talk to you, you will talk to me.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+又係開新account..仲要牛頭唔答馬嘴.,He opened a new account.. Zhong Yaotou did not answer his mouth.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.13636363636363635
+。。。間間都差唔多,. . . There are so many differences,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.5
+"Manulife 咪又係 Financial Planning Manager, 唔係 build team 係呢個架咋.","Manulife is also the Financial Planning Manager, not the build team.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"房就大把, book 就有, 我多數 book TST centre.","The room is big, the book is there, most of my book TST centre.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.25
+五年攞返哂+利息,Five years of rebate + interest,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.4588}",0.4588,0.0
+邊間呀,Bianjian,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"i think you should consider China Life annuity, its tax deductable","i think you should consider China Life annuity, is tax deductible","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+係YF Life，仲有，係保証3.6厘,"Department YF Life, Zhong You, Department guarantee 3.6%","{'neg': 0.0, 'neu': 0.778, 'pos': 0.222, 'compound': 0.25}",0.25,0.0
+淨做 Cold Market 太辛苦又未必搵到大錢.,It's too hard to do Cold Market on the net and it doesn't necessarily cost a lot of money.,"{'neg': 0.072, 'neu': 0.928, 'pos': 0.0, 'compound': -0.1027}",-0.1027,-0.22291666666666665
+多方向同步進行,Multi-directional synchronization,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+宏利既話，我有朋友係果邊做，有需要幫手可以搵我,"Manulife's words, I have a friend who does it by fruit, if I need help, I can help me","{'neg': 0.0, 'neu': 0.65, 'pos': 0.35, 'compound': 0.8225}",0.8225,0.0
+講佣就一定唔會係保險公司,"If you are a maid, you must not be an insurance company","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+其實邊間都冇所謂，係睇您遇唔遇到好upline,"In fact, there is no such thing on the side, it’s because you meet a good upline","{'neg': 0.109, 'neu': 0.746, 'pos': 0.144, 'compound': 0.1779}",0.1779,0.35
+中人個寫字樓……完全不知所謂,Chinese office building... I don’t know,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+又細又窄又核突,"Thin, narrow and nucleus","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.30000000000000004
+D agent又大陸feel,D agent and mainland feel,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+連廣東話都講到一舊舊,Even Cantonese is old,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.1
+請埋D呀嬸大陸人做,Please bury D aunt mainlander to do,"{'neg': 0.0, 'neu': 0.723, 'pos': 0.277, 'compound': 0.3182}",0.3182,0.0
+唔係讚大M,Don't praise M,"{'neg': 0.594, 'neu': 0.406, 'pos': 0.0, 'compound': -0.4449}",-0.4449,0.0
+但大M形象真係好幾班,But the image of the big M really has several classes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.06666666666666668
+寫字樓……完全不知所謂??,Office...I don't know what it means at all?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+近排個agent叫我買隻短期儲蓄計劃佢話保證3.35厘息，5年後攞番,"A row of agents told me to buy only a short-term savings plan, and then guarantee a 3.35% interest rate.","{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.6124}",0.6124,0.0
+本身自己有部份錢係銀行做緊定期但好低息，所以諗緊買唔買好? 或者你地有無高息D既計劃可以介紹下,"Some of the money itself is a bank that is tight on a regular basis but has a low interest rate, so buy it carefully and not buy it? Or do you have a high interest rate D that you can introduce?","{'neg': 0.052, 'neu': 0.743, 'pos': 0.205, 'compound': 0.8341}",0.8341,-0.02371428571428572
+高息嘅唔會短時間拎返,High interest rates will not be returned in a short time,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.4588}",0.4588,0.08
+你儲錢個目的係咩,What is your purpose for saving money?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+無目的，筆錢擺銀行無乜息收，又唔想買年金因為太耐先攞到錢,"No purpose, the money is put in the bank without interest, and you don’t want to buy an annuity because you are too resistant to get the money first","{'neg': 0.146, 'neu': 0.813, 'pos': 0.041, 'compound': -0.5236}",-0.5236,0.25
+中人壽有呀,China Life Insurance,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+中人壽有隻要保單第20年度先拎到錢仲要逼你拎哂出嚟 雖則個條文有寫到 但寫得比較婉轉,"As for China Life Insurance, as long as the insurance policy reaches the 20th year of the insurance policy, Qian Zhong will force you to pick it out.","{'neg': 0.0, 'neu': 0.957, 'pos': 0.043, 'compound': 0.0516}",0.0516,-0.025
+3、5、10年都有，中長線滴3.35都唔是話好多,"3, 5 and 10 years old, 3.35 long-term drops are not a lot of words","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.1
+其實睇下自己有無啲乜短/中/長期目標，而再去決定行邊一個計劃,"Actually, do you have any short-term/medium-term/long-term goals before deciding on a plan?","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+唔鐘意等到退休先摞可以儲年期之後每年都摞一筆錢出黎，摞幾多錢或幾多年都可以定製,"Well, I don’t want to wait until I can retire first, and I can save a lot of money every year.","{'neg': 0.0, 'neu': 0.732, 'pos': 0.268, 'compound': 0.6808}",0.6808,0.25
+業內人,Insiders,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+有阿5年後拎番 8厘左右既非保證回報,"There are about 8% after 5 years, which is not a guaranteed return.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+亦都仲有其他plan,Yiduzhong also has other plans,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.125
+可以選供5年或10年，然後唔駛再供，由佢自己滾存，滾到真係有需要先拎出嚟,"You can choose 5 years or 10 years, and then don’t drive and make the supply again. You can save it by yourself.","{'neg': 0.0, 'neu': 0.873, 'pos': 0.127, 'compound': 0.4939}",0.4939,0.0
+之前嘅，自己發掘吓,"Before, I discovered scaring myself","{'neg': 0.42, 'neu': 0.58, 'pos': 0.0, 'compound': -0.4404}",-0.4404,0.0
+你係想要靈活定唔靈活先,You want to be flexible and not flexible first,"{'neg': 0.153, 'neu': 0.552, 'pos': 0.294, 'compound': 0.1366}",0.1366,0.25
+靈活既中間可以攞出黎用既 厘數係會低d 咁唔靈活就高啦,"Flexibility means that you can find the Li system in the middle. The number system will be lower d. If you are flexible, it will be higher.","{'neg': 0.071, 'neu': 0.747, 'pos': 0.182, 'compound': 0.34}",0.34,0.125
+同埋5年後攞反出黎又擺係銀行不如長線d滾多d 淨係攞佢派出黎既利息洗下,"After 5 years of burying it, it is better to leave Li and put the bank instead of the long-term d roll more d. The net system sends Li and the interest is washed down","{'neg': 0.031, 'neu': 0.818, 'pos': 0.151, 'compound': 0.6908}",0.6908,0.2111111111111111
+Ps 我自己有份每年派錢既儲蓄,Ps I have a share of each year to save money,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.6597}",0.6597,0.0
+因為可以有好多唔同玩法,Because there are so many different ways to play,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.34}",0.34,0.25
+最緊要買既時候要清晰 要投入多少錢,"The most important thing is to be clear at the time, how much money to invest","{'neg': 0.0, 'neu': 0.749, 'pos': 0.251, 'compound': 0.5709}",0.5709,0.3
+投入時間 幾年後可以攞返幾錢 保證幾多非保證幾多。清晰後 滿意的就買不滿意再找其他,"After investing a few years, you can get back a few dollars to guarantee how much is not guaranteed. When it’s clear, if you’re satisfied, you’ll buy if you’re not satisfied.","{'neg': 0.063, 'neu': 0.735, 'pos': 0.201, 'compound': 0.6209}",0.6209,0.021428571428571432
+少少意見 因為買怎樣的好睇個人儲錢目的 接受程度 就算呢到每位每人比個plan你 都未必有你看得上的 所以 想清楚自己想要怎樣的 再找公司/agent商量比較實際同有效率。畢竟保險就只是 協助我們達成目的(保障)/目標(金額) 既工具,"There are some opinions because of what kind of good personal savings you want to buy. Even if each person compares a plan, you may not have what you can see, so think about what you want to find a company/agent. Efficient. After all, insurance is just a tool that helps us achieve our goals (protection)/goals (amount)","{'neg': 0.0, 'neu': 0.831, 'pos': 0.169, 'compound': 0.8228}",0.8228,0.4333333333333333
+五年攞返哂+利息,Five years of rebate + interest,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.4588}",0.4588,0.0
+邊間呀,Bianjian,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"i think you should consider China Life annuity, its tax deductable","i think you should consider China Life annuity, is tax deductible","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+係YF Life，仲有，係保証3.6厘,"Department YF Life, Zhong You, Department guarantee 3.6%","{'neg': 0.0, 'neu': 0.778, 'pos': 0.222, 'compound': 0.25}",0.25,0.0
+買咩保險多,Buy more insurance,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.5
+千萬不要買萬通,Never buy Wantong,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+黎黎去去 醫療，危疾， 人壽，儲蓄為主,"Li Li went to medical treatment, critical illness, life, saving mainly","{'neg': 0.357, 'neu': 0.643, 'pos': 0.0, 'compound': -0.6124}",-0.6124,0.05555555555555555
+其實買保險真係有錢賺？ 有無人有親身經歷？,"In fact, is it really rich to buy insurance? Does anyone have personal experience?","{'neg': 0.0, 'neu': 0.753, 'pos': 0.247, 'compound': 0.6432}",0.6432,0.1875
+保險用自己條命去賭，如果係條命長，又識投資100%可以保通脹，佢又能夠儲蓄，咁仲有乜理由買保險呢？,"Insurance uses its own life to gamble. If it is a long life, and knows that investing 100% can protect inflation, and it can save, can there be any reason to buy insurance?","{'neg': 0.0, 'neu': 0.842, 'pos': 0.158, 'compound': 0.7003}",0.7003,0.275
+“如果”唔病，“如果”投資100%贏,"""If"" Well, ""If"" investment 100% win","{'neg': 0.0, 'neu': 0.404, 'pos': 0.596, 'compound': 0.7096}",0.7096,0.8
+死唔係問題，死唔去先係問題,"It’s not a problem, let’s do it first","{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.3089}",0.3089,0.25
+"假如識投資,都要買","If you know investment, you have to buy","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"你有病,半死,反唔倒工,果時投唔倒資,咁點算,你大把錢使唔哂除外,無人叫你拎全副身家買保險","You are sick, half dead, you don’t get work, if you don’t get enough money, don’t count, you don’t have to pay a lot of money, no one asks you to buy insurance for your whole family","{'neg': 0.253, 'neu': 0.747, 'pos': 0.0, 'compound': -0.8807}",-0.8807,-0.17619047619047618
+買左保險就唔可以投資咩?,Can I invest in the left insurance?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+係要分配,To be allocated,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+無錢的話，死唔去靠香港政府啦，75歲有免費醫療,"If you don’t have money, you can’t rely on the Hong Kong government. There is free medical treatment at the age of 75.","{'neg': 0.0, 'neu': 0.87, 'pos': 0.13, 'compound': 0.5106}",0.5106,0.2
+主要分4大方面!~,Mainly divided into 4 major aspects!~,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.12239583333333333
+"1) RISk (人壽,醫療,危疾，)","1) RISk (life, medical, critical illness,)","{'neg': 0.703, 'neu': 0.297, 'pos': 0.0, 'compound': -0.7269}",-0.7269,0.0
+2)儲蓄,2) Savings,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+3)投資,3) Investment,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+4)退休,4) Retire,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"而家好多人都會買儲蓄,一黎放係入面既息一定多過放銀行~二黎電視都有講,投資會有Risk, 最緊要保本得黎第時又可以用~",Many people in the family will buy savings. Yilifang Department will have more interest than the bank. Erli TV has talked about it. Investment will have Risk. The most important thing is to protect the capital and it can be used when it~,"{'neg': 0.043, 'neu': 0.795, 'pos': 0.163, 'compound': 0.7083}",0.7083,0.475
+"例如而家你一個月儲$1000, 廿年之後個個月都拎番1.5倍 仲要係供15/20 但拎錢係拎到你100歲","For example, if you save $1000 a month, you will have to pay 1.5 times in the next 20 months. You have to pay 15/20, but you have to pay 100 years old","{'neg': 0.114, 'neu': 0.826, 'pos': 0.06, 'compound': 0.0258}",0.0258,0.05
+利伸 做緊保險,Lishen tightens insurance,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+多吾多人買保險,Many people buy insurance,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.5
+多人買但要睇適合買d咩，每個人需要的都不一樣,Many people buy it but it’s suitable to buy it. Everyone needs something different,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.35000000000000003
+萬萬不可買萬通,Never buy Wantong,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+多人買,Buy,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+又一分,Another point,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+That’s true,That’s true,"{'neg': 0.0, 'neu': 0.263, 'pos': 0.737, 'compound': 0.4215}",0.4215,0.35
+香港保險滲透率算好高,Hong Kong insurance penetration rate is considered high,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.16
+業內人士 分享一下,Insiders share,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.29600000000000004,0.0
+香港人一個成年人平均3-4份保單,An average Hong Kong citizen has 3-4 insurance policies,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.15
+主要危疾、儲蓄、人壽多,"Major critical illnesses, savings, and longevity","{'neg': 0.603, 'neu': 0.397, 'pos': 0.0, 'compound': -0.7245}",-0.7245,0.03125
+大學生一般都會買儲蓄,College students generally buy savings,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.05000000000000002
+而有家庭一家人至少6張,And there are at least 6 photos of a family,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.3
+大人危疾、人壽、意外、儲蓄,"Adult critical illness, life, accident, savings","{'neg': 0.73, 'neu': 0.27, 'pos': 0.0, 'compound': -0.7964}",-0.7964,0.05
+小朋友 危疾、人壽、意外、住院、教育基金,"Children Critical Illness, Life, Accident, Hospitalization, Education Fund","{'neg': 0.618, 'neu': 0.382, 'pos': 0.0, 'compound': -0.7964}",-0.7964,0.0
+咩原因,Why,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+多人買,Buy,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+有錢無錢都要買,"If you have money, you have to buy it","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+少少錢買大保障，蝕左都唔心痛啦,I don’t have enough money to buy a big guarantee.,"{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.25}",0.25,0.0
+我鍾意觀塘個個,I like all of Kwun Tong,"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.3612}",0.3612,0.0
+Premium Financing，最容易出問題嘅係Underwriting。,"Premium Financing, the most prone to problems is Underwriting.","{'neg': 0.27, 'neu': 0.73, 'pos': 0.0, 'compound': -0.4522}",-0.4522,0.5
+高佣通常少Support，但低佣就唔一定多Support。,"High commission usually has less Support, but low commission does not necessarily have more Support.","{'neg': 0.113, 'neu': 0.602, 'pos': 0.285, 'compound': 0.5328}",0.5328,0.04055555555555556
+宏記Financing部份，好似可以自己做埋，應該易做啲噃。,"Hongji Financing part seems to be buried by yourself, it should be easy to do.","{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.4404}",0.4404,0.43333333333333335
+"我好憎過觀塘, 我 d 客亦都唔多係果頭.","I hate Kwun Tong very much, and I don't like many fruits.","{'neg': 0.367, 'neu': 0.633, 'pos': 0.0, 'compound': -0.7013}",-0.7013,-0.013333333333333345
+不過個頭太少OL...,But too little OL...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.1875
+你咁叻知我多數做 OL?,Do you know that most of me do OL?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.5
+中人premium financing都可以自己做。,Chinese premium financing can be done by yourself.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+咁識食。。。正牙,What food. . . Orthodontics,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+有興趣來保記，就通知我。,"If you are interested in keeping it, let me know.","{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.4019}",0.4019,0.25
+Plan殺plan個陣你得單一選擇點都輸,"Plan to kill a plan, you have to lose a single choice","{'neg': 0.425, 'neu': 0.575, 'pos': 0.0, 'compound': -0.8126}",-0.8126,-0.07142857142857142
+你係a唉a?,Are you a a a?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+AIA都唔錯吖啲產品，文化就唔知了。,"AIA is not wrong about acridine products, and the culture is unknown.","{'neg': 0.0, 'neu': 0.812, 'pos': 0.188, 'compound': 0.3724}",0.3724,0.075
+"咁大公司, 文化好睇 team","Big company, good culture team","{'neg': 0.0, 'neu': 0.58, 'pos': 0.42, 'compound': 0.4404}",0.4404,0.35
+樓主消失左,The landlord disappears left,"{'neg': 0.444, 'neu': 0.556, 'pos': 0.0, 'compound': -0.34}",-0.34,0.0
+"非常同意, 做COLD MARKET都生存到實無死","Strongly agree, do cold MARKET to survive to death","{'neg': 0.269, 'neu': 0.414, 'pos': 0.317, 'compound': -0.0772}",-0.0772,-0.08333333333333334
+近排個agent叫我買隻短期儲蓄計劃佢話保證3.35厘息，5年後攞番,"A row of agents told me to buy only a short-term savings plan, and then guarantee a 3.35% interest rate.","{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.6124}",0.6124,0.0
+本身自己有部份錢係銀行做緊定期但好低息，所以諗緊買唔買好? 或者你地有無高息D既計劃可以介紹下,"Some of the money itself is a bank that is tight on a regular basis but has a low interest rate, so buy it carefully and not buy it? Or do you have a high interest rate D that you can introduce?","{'neg': 0.052, 'neu': 0.743, 'pos': 0.205, 'compound': 0.8341}",0.8341,-0.02371428571428572
+高息嘅唔會短時間拎返,High interest rates will not be returned in a short time,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.4588}",0.4588,0.08
+你儲錢個目的係咩,What is your purpose for saving money?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+無目的，筆錢擺銀行無乜息收，又唔想買年金因為太耐先攞到錢,"No purpose, the money is put in the bank without interest, and you don’t want to buy an annuity because you are too resistant to get the money first","{'neg': 0.146, 'neu': 0.813, 'pos': 0.041, 'compound': -0.5236}",-0.5236,0.25
+中人壽有呀,China Life Insurance,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+中人壽有隻要保單第20年度先拎到錢仲要逼你拎哂出嚟 雖則個條文有寫到 但寫得比較婉轉,"As for China Life Insurance, as long as the insurance policy reaches the 20th year of the insurance policy, Qian Zhong will force you to pick it out.","{'neg': 0.0, 'neu': 0.957, 'pos': 0.043, 'compound': 0.0516}",0.0516,-0.025
+3、5、10年都有，中長線滴3.35都唔是話好多,"3, 5 and 10 years old, 3.35 long-term drops are not a lot of words","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.1
+其實睇下自己有無啲乜短/中/長期目標，而再去決定行邊一個計劃,"Actually, do you have any short-term/medium-term/long-term goals before deciding on a plan?","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+唔鐘意等到退休先摞可以儲年期之後每年都摞一筆錢出黎，摞幾多錢或幾多年都可以定製,"Well, I don’t want to wait until I can retire first, and I can save a lot of money every year.","{'neg': 0.0, 'neu': 0.732, 'pos': 0.268, 'compound': 0.6808}",0.6808,0.25
+業內人,Insiders,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+有阿5年後拎番 8厘左右既非保證回報,"There are about 8% after 5 years, which is not a guaranteed return.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+亦都仲有其他plan,Yiduzhong also has other plans,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.125
+可以選供5年或10年，然後唔駛再供，由佢自己滾存，滾到真係有需要先拎出嚟,"You can choose 5 years or 10 years, and then don’t drive and make the supply again. You can save it by yourself.","{'neg': 0.0, 'neu': 0.873, 'pos': 0.127, 'compound': 0.4939}",0.4939,0.0
+之前嘅，自己發掘吓,"Before, I discovered scaring myself","{'neg': 0.42, 'neu': 0.58, 'pos': 0.0, 'compound': -0.4404}",-0.4404,0.0
+你係想要靈活定唔靈活先,You want to be flexible and not flexible first,"{'neg': 0.153, 'neu': 0.552, 'pos': 0.294, 'compound': 0.1366}",0.1366,0.25
+靈活既中間可以攞出黎用既 厘數係會低d 咁唔靈活就高啦,"Flexibility means that you can find the Li system in the middle. The number system will be lower d. If you are flexible, it will be higher.","{'neg': 0.071, 'neu': 0.747, 'pos': 0.182, 'compound': 0.34}",0.34,0.125
+同埋5年後攞反出黎又擺係銀行不如長線d滾多d 淨係攞佢派出黎既利息洗下,"After 5 years of burying it, it is better to leave Li and put the bank instead of the long-term d roll more d. The net system sends Li and the interest is washed down","{'neg': 0.031, 'neu': 0.818, 'pos': 0.151, 'compound': 0.6908}",0.6908,0.2111111111111111
+Ps 我自己有份每年派錢既儲蓄,Ps I have a share of each year to save money,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.6597}",0.6597,0.0
+因為可以有好多唔同玩法,Because there are so many different ways to play,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.34}",0.34,0.25
+最緊要買既時候要清晰 要投入多少錢,"The most important thing is to be clear at the time, how much money to invest","{'neg': 0.0, 'neu': 0.749, 'pos': 0.251, 'compound': 0.5709}",0.5709,0.3
+投入時間 幾年後可以攞返幾錢 保證幾多非保證幾多。清晰後 滿意的就買不滿意再找其他,"After investing a few years, you can get back a few dollars to guarantee how much is not guaranteed. When it’s clear, if you’re satisfied, you’ll buy if you’re not satisfied.","{'neg': 0.063, 'neu': 0.735, 'pos': 0.201, 'compound': 0.6209}",0.6209,0.021428571428571432
+少少意見 因為買怎樣的好睇個人儲錢目的 接受程度 就算呢到每位每人比個plan你 都未必有你看得上的 所以 想清楚自己想要怎樣的 再找公司/agent商量比較實際同有效率。畢竟保險就只是 協助我們達成目的(保障)/目標(金額) 既工具,"There are some opinions because of what kind of good personal savings you want to buy. Even if each person compares a plan, you may not have what you can see, so think about what you want to find a company/agent. Efficient. After all, insurance is just a tool that helps us achieve our goals (protection)/goals (amount)","{'neg': 0.0, 'neu': 0.831, 'pos': 0.169, 'compound': 0.8228}",0.8228,0.4333333333333333
+多吾多人買保險,Many people buy insurance,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.5
+多人買但要睇適合買d咩，每個人需要的都不一樣,Many people buy it but it’s suitable to buy it. Everyone needs something different,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.35000000000000003
+萬萬不可買萬通,Never buy Wantong,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+多人買,Buy,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+又一分,Another point,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+That’s true,That’s true,"{'neg': 0.0, 'neu': 0.263, 'pos': 0.737, 'compound': 0.4215}",0.4215,0.35
+香港保險滲透率算好高,Hong Kong insurance penetration rate is considered high,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.16
+業內人士 分享一下,Insiders share,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.29600000000000004,0.0
+香港人一個成年人平均3-4份保單,An average Hong Kong citizen has 3-4 insurance policies,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.15
+主要危疾、儲蓄、人壽多,"Major critical illnesses, savings, and longevity","{'neg': 0.603, 'neu': 0.397, 'pos': 0.0, 'compound': -0.7245}",-0.7245,0.03125
+大學生一般都會買儲蓄,College students generally buy savings,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.05000000000000002
+而有家庭一家人至少6張,And there are at least 6 photos of a family,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.3
+大人危疾、人壽、意外、儲蓄,"Adult critical illness, life, accident, savings","{'neg': 0.73, 'neu': 0.27, 'pos': 0.0, 'compound': -0.7964}",-0.7964,0.05
+小朋友 危疾、人壽、意外、住院、教育基金,"Children Critical Illness, Life, Accident, Hospitalization, Education Fund","{'neg': 0.618, 'neu': 0.382, 'pos': 0.0, 'compound': -0.7964}",-0.7964,0.0
+咩原因,Why,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+多人買,Buy,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+有錢無錢都要買,"If you have money, you have to buy it","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+少少錢買大保障，蝕左都唔心痛啦,I don’t have enough money to buy a big guarantee.,"{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.25}",0.25,0.0
+I wanna buy medical malpractice insurance for my elective attachment in hku Medicine for a month.,I wanna buy medical malpractice insurance for my elective attachment in hku Medicine for a month.,"{'neg': 0.0, 'neu': 0.872, 'pos': 0.128, 'compound': 0.296}",0.29600000000000004,0.0
+Only requirement is the insurance document must include wording 'medical malpractice insurance ',Only requirement is the insurance document must include wording'medical malpractice insurance ',"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+I am a medical student without license.,I am a medical student without license.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+Please pm me your wts or email if your company provide this insurance. I need the insurance before this friday,Please pm me your wts or email if your company provide this insurance. I need the insurance before this friday,"{'neg': 0.0, 'neu': 0.892, 'pos': 0.108, 'compound': 0.3182}",0.3182,0.0
+專業責任保險？,Professional liability insurance?,"{'neg': 0.474, 'neu': 0.526, 'pos': 0.0, 'compound': -0.2023}",-0.2023,0.1
+醫委會,Medical Committee,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+give up your idea,give up your idea,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+wanna buy medical malpractice insurance for my elective attachment in hku Medicine for a month.,wanna buy medical malpractice insurance for my elective attachment in hku Medicine for a month.,"{'neg': 0.0, 'neu': 0.864, 'pos': 0.136, 'compound': 0.296}",0.29600000000000004,0.0
+Only requirement is the insurance document must include wording 'medical malpractice insurance ',Only requirement is the insurance document must include wording'medical malpractice insurance ',"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+I am a medical student without license.,I am a medical student without license.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+Please pm me your wts or email if your company provide this insurance. I need the insurance before this friday,Please pm me your wts or email if your company provide this insurance. I need the insurance before this friday,"{'neg': 0.0, 'neu': 0.892, 'pos': 0.108, 'compound': 0.3182}",0.3182,0.0
+專業責任保險？,Professional liability insurance?,"{'neg': 0.474, 'neu': 0.526, 'pos': 0.0, 'compound': -0.2023}",-0.2023,0.1
+醫委會,Medical Committee,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+give up your idea,give up your idea,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+詢問住院118plan,Ask about hospitalization,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+這個我都想知道?,I want to know this?,"{'neg': 0.0, 'neu': 0.755, 'pos': 0.245, 'compound': 0.0772}",0.0772,0.0
+詢問住院118plan,Ask about hospitalization,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+這個我都想知道?,I want to know this?,"{'neg': 0.0, 'neu': 0.755, 'pos': 0.245, 'compound': 0.0772}",0.0772,0.0
+"呢個問題一早已經存在, 非保證, 可有可無, 可多可少, 只係你發覺得太遲","This problem has existed for a long time, non-guaranteed, optional, optional, only because you feel it is too late","{'neg': 0.13, 'neu': 0.87, 'pos': 0.0, 'compound': -0.4019}",-0.4019,-0.11666666666666665
+實際上 保記 係順境時 係唔係好分過其他公司,"In fact, it’s good to remember that when it’s in good times, it’s not a good company.","{'neg': 0.108, 'neu': 0.63, 'pos': 0.261, 'compound': 0.5258}",0.5258,0.3499999999999999
+"我想問下, 保記呢隻更美好計劃內的紅利是否唔可以隨便提取架?","I would like to ask, Bao Bao, can only the bonus in the better plan be withdrawn at random?","{'neg': 0.0, 'neu': 0.643, 'pos': 0.357, 'compound': 0.836}",0.836,0.0
+買多份對冲下lor,Buy multiple hedging down lor,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.07777777777777779
+"我記得兩三年前左右吧.當時有個保記走出離既AGENT,雖然離開左保記,仲非常沉迷紅利,你知我從來打保證.唔多信紅利.準投保人要就無計啦.就講結構...","I remember about two or three years ago. At that time, there was a bailout who walked out of AGENT. Although he left Zuo Baoji, Zhong was very addicted to the dividend. . Just talk about structure...","{'neg': 0.037, 'neu': 0.963, 'pos': 0.0, 'compound': -0.1027}",-0.1027,-0.26
+"不過佢拎一大堆野出離,證明以往既輝煌咁...","However, Qu carried a lot of wild departures, which proved to be brilliant in the past...","{'neg': 0.0, 'neu': 0.798, 'pos': 0.202, 'compound': 0.5859}",0.5859,0.25
+"過去係真係勁過既,不過呢家野始終不保證.對於紅利既態度,間間一樣。 只係佢行既係復式,呢度潛在回報就較高。","In the past, the relationship between the real and the real has been strong, but the family has never guaranteed it. The attitude towards dividends is the same from time to time. If it's just a channel, it's a compound, so the potential return is higher.","{'neg': 0.0, 'neu': 0.954, 'pos': 0.046, 'compound': 0.2846}",0.2846,0.11904761904761905
+"但如果係我賣既話,我會簡....老A或太空人年期人壽...之前我都有單CASE,搵左一陣用邊間好,本來有考慮保記BL.但保證位置實在太底....","But if you sell it to me, I will Jane... old age or astronaut life... I used to have a single case before, and I used the left side for a while, it was originally considered to keep BL. But guarantee The location is too low...","{'neg': 0.054, 'neu': 0.895, 'pos': 0.051, 'compound': -0.0387}",-0.0387,0.08071428571428571
+"拿.都係個句,我個人追求保證而已,唔代表抨擊緊保記或任何公司既紅利。","Take. It’s a sentence. I personally pursue guarantees. Well, the representative criticizes Treasury or any company as a bonus.","{'neg': 0.096, 'neu': 0.558, 'pos': 0.347, 'compound': 0.6486}",0.6486,0.0
+賠條毛,Indemnity,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+都好，有條毛玩吓。,"All good, there is a hairy scare.","{'neg': 0.288, 'neu': 0.45, 'pos': 0.261, 'compound': -0.0772}",-0.0772,0.7
+草夠100條仲可以變毛記,There are enough 100 grasses to change hair,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+住葵涌仲可以申請上巿，正到呢。,"Live in Kwai Chung Chung can apply for listing, just arrived.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.13636363636363635
+我好唔喜歡個間奇怪野.抽水都抽到上...香討都可以自己上啦...做咩要賣股比隻馬..,I don’t like a strange wild place. It’s all pumped up...Scents can be served on their own...you have to sell stocks more than horses.,"{'neg': 0.068, 'neu': 0.837, 'pos': 0.095, 'compound': 0.1779}",0.1779,0.18333333333333332
+你投保既時候唔係先注意賠償既咩？,"When you are insured, don’t pay attention to compensation first?","{'neg': 0.135, 'neu': 0.865, 'pos': 0.0, 'compound': -0.1027}",-0.1027,0.25
+"關於英式紅利, 有無人可以再講清楚D咩叫複式玩法? 我買果陣係睇佢悲觀情況果欄(假設年度化回報率比現時預期平均每年下跌約1.3%), 實際係咪會仲衰過悲觀情況","Regarding the British bonus, can anyone please explain clearly how to play the double-playing game? I bought the fruit column to look at the pessimistic situation fruit column (assuming that the annualized return rate is about 1.3% lower than the current expected average annually). Fading pessimism","{'neg': 0.126, 'neu': 0.683, 'pos': 0.191, 'compound': 0.5719}",0.5719,-0.09166666666666667
+賣比你個個仲係唔係度,Sell ​​better than you,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+計劃書有一版係全細字條款 ..,There is a full version of the plan in the plan.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.35
+裡面有一句 * 非保證紅利可能為零 .,There is a sentence * Non-guaranteed bonus may be zero.,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.5859}",0.5859,0.0
+咁你話會唔會,Yeah you will not,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.296}",0.29600000000000004,0.0
+"保誠除左複式結構之外,仲有樣野叫遺留遺產,但觸發條件不明.本身用意作為補償紅利不足情況.","In addition to the left double structure, Prudential has a wild style called legacy, but the trigger conditions are unknown. It is intended to compensate for the lack of dividends.","{'neg': 0.092, 'neu': 0.908, 'pos': 0.0, 'compound': -0.4497}",-0.4497,0.0
+但動用過的例子不多,But there are not many examples,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.25
+"所以變左象徵一樣既存在,實際幫助作用未見...","Therefore, the left symbol has the same existence, and the actual help function is not seen...","{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.4019}",0.4019,0.0
+"可能而家未去到要動用,又可能預留比進升用.","It may be that the home has not been used to use it, and it may be reserved for promotion.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+呢個我地無從得知,We have no way of knowing,"{'neg': 0.306, 'neu': 0.694, 'pos': 0.0, 'compound': -0.296}",-0.29600000000000004,0.0
+"只知紅利同投連也屬於投資類,本來就唔屬風險保障類","I only know that dividends and investment companies also belong to the investment category, and they are not originally classified as risk protection.","{'neg': 0.087, 'neu': 0.913, 'pos': 0.0, 'compound': -0.2732}",-0.2732,-0.09375
+"圖3既解釋,係解釋唔到樓主既情況的.因為係不景氣時就馬上出動緩衝機制既話,樓主唔會收到咁底預期回報.","Figure 3 explains both, and it does not explain the situation to the landlord. Because the buffer mechanism is immediately activated when the system is in a downturn, the landlord will not receive the expected return.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.1
+"反而係拉平去,就可以解釋到,問題係幾時拉平,PDF中有提及.視持單年期.即係到完結先會計一次。","Instead, it should be leveled, and it can be explained that the problem was flattened, as mentioned in the PDF. It depends on the single-year period. That is, it will be accounted once until the end.","{'neg': 0.072, 'neu': 0.928, 'pos': 0.0, 'compound': -0.4019}",-0.4019,0.0
+呢啲係壽險黎，唔可以單純當佢係基金咁去睇。,"As for life insurance, it can't be regarded as a fund alone.","{'neg': 0.154, 'neu': 0.846, 'pos': 0.0, 'compound': -0.25}",-0.25,0.0
+更乜好係保險產品黎，好大程度上係受制於 ALM 嘅要求。(中保監最近掃晒啲民營萬能險，就係基於無做好 ALM。預期將出台《保險資產負債管理監管辦法》題外話),"Even more so, it is the insurance product Li, which is largely subject to the requirements of ALM. (The China Insurance Regulatory Commission recently cleaned private universal insurance, which was based on the lack of good ALM. It is expected that the ""Insurance Asset and Liability Management Supervision Measures"" will be released.","{'neg': 0.071, 'neu': 0.835, 'pos': 0.094, 'compound': 0.3182}",0.3182,0.13333333333333333
+利率預期變動，會影響折現率、儲備金、資產配置、連帶影響預期回報率、紅利率，唔係三言兩語講得完。,"The expected change in interest rates will affect the discount rate, reserves, asset allocation, and jointly affect the expected rate of return, and the dividend rate, which is not enough to say in two words.","{'neg': 0.0, 'neu': 0.857, 'pos': 0.143, 'compound': 0.6705}",0.6705,-0.06666666666666668
+"極極極度簡化例子：保額 100 萬，預期個客 85 歲身故 (賠償=保證現金價值)，利率 10%，1 歲開始投保，最少儲備 $303 蚊就夠 ($303*1.1^85=$999,587)，如果你收佢 $30,000 蚊保費，有 $29,697 蚊係自由投資嘅。但如果利率跌至 5%，最少儲備激增至 15,809 (15,809x1.05^85=999,988)，得返 $14,190 係自由。","Extremely simplified example: 1 million insured amount, expected death at the age of 85 (compensation = guaranteed cash value), interest rate 10%, insured at 1 year old, minimum reserve of $303 mosquito is enough ($303*1.1^85=$999,587), If you charge $30,000 for mosquito insurance, $29,697 mosquitoes are freely invested. However, if the interest rate falls to 5%, the minimum reserve surges to 15,809 (15,809x1.05^85=999,988), and the $14,190 is free.","{'neg': 0.049, 'neu': 0.767, 'pos': 0.184, 'compound': 0.8658}",0.8658,0.1125
+"30,000 保費中，29,697 同 14,190 自由投資，總回報係相差千里。","Of the 30,000 premiums, 29,697 is the same as 14,190 free investment, and the total return is different by thousands of miles.","{'neg': 0.0, 'neu': 0.864, 'pos': 0.136, 'compound': 0.5106}",0.5106,0.1
+如果想維持長遠回報較高，儲備資產就唔可以增加太多，即係歸原紅利維持唔到，要滅少，但始終自由資產減少，亦要減特別紅利。歸原紅利一減少，可套現紅利會跟住插水。,"If you want to maintain a high long-term return, you can't increase the reserve assets too much, that is, to maintain the original dividend, you want to eliminate it, but always reduce the free assets, but also reduce the special dividend. Once the original bonus is reduced, the cashable bonus will keep up with the water.","{'neg': 0.02, 'neu': 0.606, 'pos': 0.374, 'compound': 0.9759}",0.9759,0.3111904761904762
+美式保單一樣受息利率變動影響，不過美式單短期內感覺無咁震撼，但時間一長都嚇死人，睇返啲生效佐 20 年嘅美式分紅單就知有幾爽,"American insurance policies are also affected by changes in interest rates, but American policies feel no shock in the short term, but they are scary to death for a long time. It will take effect after 20 years of American dividends.","{'neg': 0.212, 'neu': 0.696, 'pos': 0.092, 'compound': -0.8006}",-0.8006,-0.09166666666666667
+都係蛙兄好.望下先,It’s good to be Brother Frog.,"{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}",0.4404,0.7
+蛙兄好嘢！得閑多啲浮上嚟唔好潛咁耐水。,Brother Frog! Too much to float up and don't dive well to resist water.,"{'neg': 0.139, 'neu': 0.861, 'pos': 0.0, 'compound': -0.2746}",-0.2746,0.2
+明白更乜好有ALM要求、係壽險黎、之餘此類，要有一部份當作lock up做儲備，所以會受利率嘅影響，令自由嗰部份可運用的多與少會有影響，長遠計數變得好複雜。,"Understand that it is better to have ALM requirements, life insurance, and other such things. It must be part of the reserve as lock up, so it will be affected by interest rates, so that the more and less available free parts will be affected. Long-term counting becomes complicated.","{'neg': 0.057, 'neu': 0.784, 'pos': 0.159, 'compound': 0.7732}",0.7732,0.12604166666666666
+但係咁點解釋雋乜果類極少保障嘅分紅產品呢？佢應該唔使keep住大部份作儲備，差不多可作all-in去投資分紅，分幾多應該完全同佢嘅分紅policy直接有關，唔受到「人壽保障」方面影響咁多。,"But how do you explain the bonus products that are rarely guaranteed? The channel should not keep most of it as a reserve, and it can be used as an all-in investment dividend. The amount of the dividend should be directly related to the dividend policy of the channel. It should not be affected by the ""life protection"" aspect.","{'neg': 0.0, 'neu': 0.899, 'pos': 0.101, 'compound': 0.7518}",0.7518,0.26666666666666666
+"雋乜都係壽險產品黎，有保證現金價值，就會受制於 ALM，要俾保證人，就要留儲蓄，基金無保證，就無呢個問題。""保險姓保""係一個好重要嘅理念。","Jun is a life insurance product, Li. If you have a guaranteed cash value, you will be subject to ALM. If you want to be a guarantor, you must keep your savings. If the fund is not guaranteed, there is no such problem. ""Insurance surname insurance"" is a good and important concept.","{'neg': 0.037, 'neu': 0.782, 'pos': 0.181, 'compound': 0.7549}",0.7549,0.2333333333333333
+"近年息低，所以""保證""個代價，就係要持有更多低息美債作儲蓄，變相回報低，無咩競爭力，所以齊齊出英式低保證。","In recent years, interest rates have been low, so the price of ""guarantee"" is to hold more low-interest U.S. Treasury bonds for savings. The return in disguise is low, and there is no competitiveness. Therefore, all British low guarantees are issued.","{'neg': 0.208, 'neu': 0.653, 'pos': 0.14, 'compound': -0.3477}",-0.3477,0.08333333333333333
+留意 414 剛公佈業績 (我持有414)，佢個債券組合回報率係5%，但入面有唔少BBB債，如果單睇儲備用美債拉埋唔夠3%。,"Note that 414 has just announced the results (I hold 414). The return rate of each bond portfolio is 5%, but there are not many BBB bonds in the face. If the single reserve is used to pull the US debt, it will not be enough for 3%.","{'neg': 0.065, 'neu': 0.935, 'pos': 0.0, 'compound': -0.5023}",-0.5023,-0.10714285714285714
+而且雖然保單會獨立計數，但背後個分紅基金係統一運作，回報方向大致上係一樣。保險唔係你今日俾錢買，佢就拎舊錢去市場買債券同股票咁簡單。,"And although the policy will be counted independently, the return direction of the dividend fund system in operation is generally the same. Insurance doesn't mean you buy it today with money, and it's as simple as buying bonds with stocks on the market with old money.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,-0.027083333333333324
+種種原因，債券回報部分會滯後於市場，減息個影響亦一路浮現，部分原因係分紅機會債券再投資，部分原因係緩和調整。,"For various reasons, the return of bonds will lag behind the market, and the impact of interest rate cuts has also emerged all the way. Part of the reason is the reinvestment of bonus opportunity bonds, and part of the reason is the adjustment of easing.","{'neg': 0.082, 'neu': 0.716, 'pos': 0.202, 'compound': 0.7717}",0.7717,-0.2
+"""The intention of with-profits is to give relatively cautious investors a taste of the stock market but without too much risk."" (European Parliament, 2007 report)","""The intention of with-profits is to give relatively cautious investors a taste of the stock market but without too much risk."" (European Parliament, 2007 report)","{'neg': 0.045, 'neu': 0.871, 'pos': 0.084, 'compound': 0.2549}",0.2549,0.06666666666666668
+儲蓄壽險點講都係保險，佢嘅最大好處就係有 ALM ，所以回報有一定保證，但保證嘅成本就係回報受限，魚與熊掌，各有取捨。,"Savings life insurance is insurance, and the biggest benefit is ALM, so the return is guaranteed, but the guaranteed cost is limited, and fish and bear paws have their own choices.","{'neg': 0.07, 'neu': 0.87, 'pos': 0.06, 'compound': -0.09}",-0.09,0.2642857142857143
+早幾年更美好回報係高過當年建議書嘅(基金台有師兄分享多份保單，得更乜好係跑得贏廿年前建議書)，而近年出嘅單應該會低過建議書，不過拉長線個偏差有幾大，始終要睇美國加息進度。,"The better returns in the early years are higher than the proposals in the year (the fund station has brothers who share multiple policies, and it is better to run to win the proposal 20 years ago), and the orders issued in recent years should be lower than the proposal. However, there are several major deviations in the extension of the line, and we must always look at the progress of the US interest rate hike.","{'neg': 0.025, 'neu': 0.777, 'pos': 0.198, 'compound': 0.9371}",0.9371,0.24583333333333335
+留意 414 個中期業績，債券組合回報率都由 4.8% 升至5%，英國女神年初賣果啲雋乜，最終回報假設都係得果 5.x%，又唔係真係咁難做到。,"Pay attention to the 414 interim results. The bond portfolio returns have risen from 4.8% to 5%. The British goddess sold fruit early this year. The final return hypothesis is all 5.x%, and it is not true that the real system is difficult to achieve.","{'neg': 0.129, 'neu': 0.871, 'pos': 0.0, 'compound': -0.6407}",-0.6407,-0.0625
+果然diversify喎，股票買隔離,"Sure enough diversify, stock isolation","{'neg': 0.338, 'neu': 0.375, 'pos': 0.287, 'compound': -0.1027}",-0.1027,0.25
+雖然君子遠庖廚，不過 414 表現好好,"Although the gentleman is far away from the kitchen, 414 performs well","{'neg': 0.0, 'neu': 0.84, 'pos': 0.16, 'compound': 0.2732}",0.2732,0.1
+言下之意， 趁利率高，儲備金低既時候買保險回報應該會較高？,"The implication is that while interest rates are high and reserves are low, should insurance returns be higher at the time?","{'neg': 0.087, 'neu': 0.788, 'pos': 0.124, 'compound': 0.2263}",0.2263,0.1366666666666667
+e. g. 20年前買既單雖然無當初project既回報咁多， 但應該好過e家利率低既時候開既保單。,"e. g. Although there was no return on the original purchase order 20 years ago, it should be better than the current low-interest rate open policy.","{'neg': 0.072, 'neu': 0.757, 'pos': 0.171, 'compound': 0.4588}",0.4588,0.21875
+至於圖3緩衝既觸發你又點睇?,"As for Figure 3, the buffer both triggers you and looks at it?","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0
+"我反而覺得除左人壽消耗同資產表現之外,呢個位置值得深究","On the contrary, I think that this position is worth investigating besides the performance of Zuo Life's consumption of the same assets","{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.3818}",0.3818,0.15
+"我持單期20年.有高有底,比如今年第10年,預期同樓主一樣底左,前邊高者取部份,補貼底者.定直到斷單一刻,再計一次,反映於期滿紅利?","I hold a single period for 20 years. It has a high and a bottom. For example, in the 10th year of this year, it is expected that the bottom will be the same as the landlord. The higher one will take part and subsidize the bottom. Full bonus?","{'neg': 0.0, 'neu': 0.932, 'pos': 0.068, 'compound': 0.5423}",0.5423,0.09809523809523807
